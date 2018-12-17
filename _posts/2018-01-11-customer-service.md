@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "What is Jekyll"
-author: john
+author: Duncan
 categories: [ Jekyll, tutorial ]
 image: assets/images/11.jpg
 featured: true
