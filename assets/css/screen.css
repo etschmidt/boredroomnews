@@ -51,7 +51,7 @@ License: https://www.wowthemes.net/freebies-license/
  .site-content {
      min-height: 60vh;
      padding-top: 1.5rem;
-     margin-top: 57px;
+     margin-top: 40px;
      transition: all 0.4s;
 }
  section {
@@ -258,6 +258,13 @@ License: https://www.wowthemes.net/freebies-license/
      line-height:1.84;
      color:rgba(0,0,0,.8);
 }
+span.red {
+    color: red;
+}
+span.green {
+    color: green;
+}
+
  blockquote {
      border-left:4px solid #00ab6b;
      padding:0 20px;
