@@ -4,7 +4,7 @@ description: "Bleeding Edge Thought Leadership"
 meta_description: "News to Move Your Money"
 logo: 'assets/images/BRN logo.png'
 favicon: 'assets/images/BRN logo.png'
-baseurl: ''
+baseurl: '/'
 title_image: 'assets/images/BRN logo.png'
 google_analytics: 'UA-131122873-1'
 disqus: 'boredroomnews'
