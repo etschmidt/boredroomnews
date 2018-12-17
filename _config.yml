@@ -1,17 +1,17 @@
 # Site
 name: "BORED ROOM NEWS"
 description: "Bleeding Edge Thought Leadership"
-meta_description: "Jekyll template, Medium styled, free for bloggers."
+meta_description: "News to Move Your Money"
 logo: 'assets/images/BRN logo.png'
 favicon: 'assets/images/BRN logo.png'
-baseurl: 'etschmidt.github.io/boredroomnews'
+baseurl: '/boredroomnews'
 google_analytics: 'UA-46278016-1'
 disqus: 'demowebsite'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 
 # Authors
 authors:
-  sal:
+  Paul:
     name: Paul
     display_name: Paul
     gravatar: 030dee8cbe0e34bfef91a89b707a640f # md5 hash of ethantschmidt@protonmail.com
@@ -19,7 +19,7 @@ authors:
     web:
     twitter: 
     description: "Muad'Dib."
-  john:
+  Duncan:
     name: Duncan
     display_name: Duncan
     gravatar: 030dee8cbe0e34bfef91a89b707a640f
