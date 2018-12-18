@@ -15,8 +15,8 @@ authors:
   warren:
     name: warren
     display_name: Warren
-    gravatar: 030dee8cbe0e34bfef91a89b707a640f # md5 hash of ethantschmidt@protonmail.com
-    email: warrenbuffet@boredroomnews.com
+    gravatar: b72c560fd9953bd4242bb23010d13d70 # md5 hash of warren@boredroomnews.com
+    email: warren@boredroomnews.com
     web:
     twitter: 
     description: "I am the Kwisatz Haderach of value investing"
@@ -24,10 +24,10 @@ authors:
     name: milton
     display_name: Milton
     gravatar: 030dee8cbe0e34bfef91a89b707a640f
-    email: miltonfriedman@boredroomnews.com
+    email: milton@boredroomnews.com
     web: 
     twitter: 
-    description: "Division of War Research at Columbia University '43-'45"
+    description: "Division of War Research, Columbia University '43-'45"
 
 # Plugins
 plugins: 
