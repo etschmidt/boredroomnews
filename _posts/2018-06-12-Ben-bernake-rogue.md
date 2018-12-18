@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Ben Bernake Running Rogue Quantitative Easing Ops"
-author: sal
+author: Milton
 categories: [ Federal Reserve, Bernake ]
 image: assets/images/bernake.jpg
 ---
