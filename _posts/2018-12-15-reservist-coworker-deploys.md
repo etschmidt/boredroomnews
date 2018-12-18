@@ -5,6 +5,6 @@ author: warren
 categories: [ Navy ]
 image: assets/images/arbys.jpg
 featured: false
-hidden: false
+hidden: true
 ---
 lorem ipsum
