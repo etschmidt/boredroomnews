@@ -9,6 +9,7 @@ title: Archive
 <div class="section-title">
     <h2>Archive of posts with <span>{{ page.type }} '{{ page.title }}'</span></h2>
 </div>
+<!--
 <div class="row listrecent">
 
 {% for post in page.posts %}
@@ -18,5 +19,39 @@ title: Archive
 {% endfor %}
 
 </div>
-</section>
+-->
+<h2>Posts related to: {{ page.title }}</h2>
 
+{% unless page.content == '' %}
+  <p>{{ page.content }}</p>
+{% endunless %}
+
+{% unless site.categories.[page.category] | size > 0 %}
+  <p>No posts in this category at this time.</p>
+{% endunless %}
+
+{% for post in site.categories.[page.category] %}
+<div class="post-preview">
+    <a href="{{ post.url | prepend: site.baseurl }}">
+        <h2 class="post-title">            
+            {{ post.title }}
+        </h2>
+        {% if post.subtitle %}
+        <h3 class="post-subtitle">
+            {{ post.subtitle }}
+        </h3>
+        {% endif %}
+    </a>
+    <p class="post-meta">
+      Posted by 
+      {% if post.author %}
+        {{ post.author }}
+      {% else %}
+        {{ site.title }}
+      {% endif %} 
+      on {{ post.date | date: "%B %-d, %Y" }}
+    </p>
+</div>
+<hr>
+{% endfor %}
+</section>
