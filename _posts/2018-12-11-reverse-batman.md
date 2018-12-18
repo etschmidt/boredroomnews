@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Reverse Batman Sighting on Wall Street"
-author: Warren
+author: warren
 categories: [ reverse batman, wall street ]
 image: assets/images/batman-on-computer.jpg
 featured: false
