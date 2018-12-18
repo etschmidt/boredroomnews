@@ -12,7 +12,7 @@ mailchimp-list: 'https://boredroomnews.us7.list-manage.com/subscribe/post?u=2694
 
 # Authors
 authors:
-  Paul:
+  warren:
     name: warren
     display_name: Warren
     gravatar: 030dee8cbe0e34bfef91a89b707a640f # md5 hash of ethantschmidt@protonmail.com
@@ -20,7 +20,7 @@ authors:
     web:
     twitter: 
     description: "I am the Kwisatz Haderach of value investing"
-  Duncan:
+  milton:
     name: milton
     display_name: Milton
     gravatar: 030dee8cbe0e34bfef91a89b707a640f
