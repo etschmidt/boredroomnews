@@ -5,5 +5,6 @@ author: warren
 categories: [ Navy ]
 image: assets/images/sailors.jpg
 featured: false
+hidden: true
 ---
 lorem ipsum

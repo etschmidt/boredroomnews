@@ -5,5 +5,5 @@ author: milton
 categories: [ networking ]
 image: assets/images/eyeswideshut.jpg
 featured: false
-hidden: false
+hidden: true
 ---

@@ -28,6 +28,14 @@ authors:
     web: 
     twitter: 
     description: "Columbia University, Division of War Research '43-'45"
+  sponsor:
+    name: sponsor
+    display_name: Sponsored post
+    gravatar: 
+    email: 
+    web: 
+    twitter: 
+    description: "This post is written by one of our fantastic sponsors; Boredroom News maintains plausible deniability for all content"
 
 # Plugins
 plugins: 

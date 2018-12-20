@@ -5,7 +5,7 @@ author: warren
 categories: [ consulting, McKinsey ]
 image: assets/images/arrest_of_jesus.jpg
 featured: true
-hidden: false
+hidden: true
 ---
 
 Lorem Ipsum
