@@ -2,10 +2,10 @@
 name: "BOREDROOM NEWS"
 description: "Bleeding Edge Thought Leadership"
 meta_description: "News to Move Your Money"
-logo: 'assets/images/BRN logo.png'
-favicon: 'assets/images/BRN logo.png'
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/logo.png'
 baseurl: '/'
-title_image: 'assets/images/BRN logo.png'
+title_image: 'assets/images/logo.png'
 google_analytics: 'UA-131122873-1'
 disqus: 'boredroomnews'
 mailchimp-list: 'https://boredroomnews.us7.list-manage.com/subscribe/post?u=26948d053fec052094653b9f3&amp;id=3d2b408f8d'
