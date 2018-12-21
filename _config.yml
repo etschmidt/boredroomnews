@@ -18,7 +18,7 @@ authors:
     gravatar: b72c560fd9953bd4242bb23010d13d70 # md5 hash of warren@boredroomnews.com
     email: warren@boredroomnews.com
     web:
-    twitter: 
+    twitter: https://twitter.com/boredroomnews
     description: "I am the Kwisatz Haderach of value investing"
   milton:
     name: milton
@@ -26,7 +26,7 @@ authors:
     gravatar: 27647257edfb64779cae6bb521ae917f # md5 hash of milton@boredroomnews.com
     email: milton@boredroomnews.com
     web: 
-    twitter: 
+    twitter: https://twitter.com/boredroomnews
     description: "Columbia University, Division of War Research '43-'45"
   sponsor:
     name: sponsor
@@ -34,7 +34,7 @@ authors:
     gravatar: 
     email: 
     web: 
-    twitter: 
+    twitter: https://twitter.com/boredroomnews
     description: "This post is written by one of our fantastic sponsors; Boredroom News maintains plausible deniability for all content"
 
 # Plugins
