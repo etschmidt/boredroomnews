@@ -5,6 +5,6 @@ author: warren
 categories: [ Altria, Juul ]
 image: assets/images/mnuchin.jpg
 featured: false
-hidden: false
+hidden: true
 ---
 
