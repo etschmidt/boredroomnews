@@ -3,7 +3,7 @@ layout: post
 title:  "Facebook Sold Direct Messages, Sexual Fetishes to Pornhub"
 author: milton
 categories: [ Facebook, Pornhub ]
-image: assets/images/facebook-Pornhub.jpg
+image: assets/images/facebook-pornhub.jpg
 featured: false
 hidden: false
 ---
