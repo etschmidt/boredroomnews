@@ -8,5 +8,4 @@ Boredroom News was founded in July, 1984, by two brothers, Warren and Milton. Bo
 
 After that paper failed, they sold crack in the inner city until they had enough money to buy a small pornography magazine, which eventually became Boredroom News.
 
-![jekyll template mediumish]({{site.baseurl}}/assets/images/founders.jpg){: .shadow}
-
+![Our Glorious Founders]({{site.baseurl}}/assets/images/founders.jpg){: .shadow}
