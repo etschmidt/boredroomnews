@@ -13,4 +13,3 @@ _Submissions must be sent in by 6pm EST Sunay night to be included in that week'
 *Other:*
 
 For any other inquiries or complaints, please click [here](https://www.boredroomnews.com/DNC)
-
