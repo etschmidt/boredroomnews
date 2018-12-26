@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Reservist Coworker \"Deploys\", Gets Paid to Drink, Party in San Diego"
+title:  "Reservist Coworker 'Deploys', Gets Paid to Drink, Party in San Diego"
 author: warren
 categories: [ Navy, MetLife ]
 image: assets/images/sailors.jpg
