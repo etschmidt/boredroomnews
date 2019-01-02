@@ -383,6 +383,9 @@ span.green {
      .post-top-meta.authorpage {
          text-align:center;
     }
+    h1.posttitle {
+         font-weight:600;
+    }
 }
  .share,.share a {
      color:rgba(0,0,0,.44);

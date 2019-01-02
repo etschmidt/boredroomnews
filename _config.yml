@@ -29,10 +29,18 @@ authors:
     twitter: https://twitter.com/boredroomnews
     description: "Columbia University, Division of War Research '43-'45"
   sponsor:
+    name: jack
+    display_name: Jack
+    gravatar: 9cb112e7848382de8a42e34765a101ee
+    email: jack@boredroomnews.com
+    web: 
+    twitter: https://twitter.com/boredroomnews
+    description: "Member, President Trump's Strategic and Policy Forum"
+  sponsor:
     name: sponsor
     display_name: Sponsored post
-    gravatar: 
-    email: 
+    gravatar: c4da5d2f0407fdb224b0582401d8c556
+    email: sponsor@boredroomnews.com
     web: 
     twitter: https://twitter.com/boredroomnews
     description: "This post is written by one of our fantastic sponsors; Boredroom News maintains plausible deniability for all content"
