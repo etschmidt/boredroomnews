@@ -4,8 +4,8 @@ title:  "Facebook Sold Direct Messages, Sexual Fetishes to Pornhub"
 author: milton
 categories: [ Facebook, Pornhub ]
 image: assets/images/facebook-pornhub.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 ---
 
 MENLO PARK, CA - it was another hard week for Facebook ([FB](https://finance.yahoo.com/quote/FB/)) as it closes out a tumultuous year. It was [revealed](https://www.nytimes.com/2018/12/18/technology/facebook-privacy.html) on Monday that the tech giant not only sold access to direct messages to other industry behemoths, but that they also sold compiled lists of users' sexual fetishes to the pornography aggregation site [Pornhub](https://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapId=142431065).
