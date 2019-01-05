@@ -36,6 +36,14 @@ authors:
     web: 
     twitter: https://twitter.com/boredroomnews
     description: "Founding Member, President Trump's Strategic and Policy Forum"
+  sharon:
+    name: sharon
+    display_name: Sharon from Accounting
+    gravatar: # set up account
+    email: sharon@boredroomnews.com
+    web: 
+    twitter: https://twitter.com/boredroomnews
+    description: ""
   sponsor:
     name: sponsor
     display_name: Sponsored post
