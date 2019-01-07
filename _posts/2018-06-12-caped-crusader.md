@@ -5,7 +5,7 @@ author: warren
 categories: [ reverse batman, wall street ]
 image: assets/images/batman-on-computer.jpg
 featured: false
-hidden: true
+hidden: false
 ---
 Cleaning up the street
 
