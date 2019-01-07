@@ -5,7 +5,7 @@ author: janet
 categories: [ Bain, consulting ]
 image: assets/images/fired.jpg
 featured: false
-hidden: false
+hidden: true
 ---
 
 disappointing Q3 numbers
