@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Networking Event Also Eyes Wide Shut Orgy"
+title:  "Networking Event Also Satanic Orgy"
 author: milton
 categories: [ networking ]
 image: assets/images/eyeswideshut.jpg
