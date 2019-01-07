@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Apple Discovers that Underpaid Chinese Laborers Cannot Afford $1000 iPhones"
+title:  "Apple Discovers that Underpaid Chinese Laborers Can't Afford $1,000 iPhones"
 author: jack
 categories: [ apple, china ]
 image: assets/images/Foxconn-Factory.jpg
@@ -16,4 +16,4 @@ By setting a [$400 a month](https://thenextweb.com/insider/2017/04/12/nyu-studen
 
 "Okay, so maybe Dickensian conditions that tears apart the very fabric of the human soul," says spokesperson Dan Ziskie of the company-owned dormitories, cafeterias, and stores that dominates the few hours of workers' lives that they aren't on the factory floor, "don't engender the love for our products that we've seen for decades in America."
 
-"But I think the Chinese will definitely come around once the [iPhone] X comes out in rose gold"
+"But I think the Chinese will definitely come around once the [iPhone] X comes out in rose gold."
