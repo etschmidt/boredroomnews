@@ -8,4 +8,4 @@ featured: false
 hidden: false
 ---
 
-Lorem Ipsum
+disappointing Q3 numbers
