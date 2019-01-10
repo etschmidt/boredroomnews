@@ -7,9 +7,5 @@ image: assets/images/batman-on-computer.jpg
 featured: false
 hidden: true
 ---
-Cleaning up the street
 
-
-Who _is_ this masked man?
-
-MORE TO FOLLOW AS EVENTS UNFOLD
+NEW YORK CITY, NY - 
