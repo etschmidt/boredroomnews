@@ -8,7 +8,7 @@ featured: false
 hidden: false
 ---
 
-How much do we really know about pineapples? I know that they're all around us, they're supposed to be "tropical" but no one can tell me when when pineapple season actually is, and they're in almost everything, from Pina Coladas to pizza. All this worldwide interest in pineapples does not match the level of knowledge we have about the industry, and it may very well be that the global market cannot sustain itself for much longer.
+OMAHA, NE - How much do we really know about pineapples? I know that they're all around us, they're supposed to be "tropical" but no one can tell me when when pineapple season actually is, and they're in almost everything, from Pina Coladas to pizza. All this worldwide interest in pineapples does not match the level of knowledge we have about the industry, and it may very well be that the global market cannot sustain itself for much longer.
 
 Or maybe it can, who knows?
 
