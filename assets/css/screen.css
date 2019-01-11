@@ -393,9 +393,9 @@ span.green {
     }
     .mainheading .lead {
         text-align: center;
-        margin: 0;
+        margin: 0 !important;
         font-size: 1.25rem !important;
-        font-family:Gerogia;
+        font-family: Gerogia;
     }
 }
  .share,.share a {
