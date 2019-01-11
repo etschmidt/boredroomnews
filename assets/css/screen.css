@@ -343,7 +343,7 @@ span.green {
      .alertbar input[type="email"] {
         margin-right:0px !Important;
         display:block;
-        border-right:1px solid #ddd !Important;
+        border-right:1px solid #ddd !mportant;
         margin-bottom:10px;
     }
      .jumbotron {
