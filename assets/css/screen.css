@@ -12,6 +12,7 @@ License: https://www.wowthemes.net/freebies-license/
 }
 .lead {
     font-size: 1.75rem;
+    padding-bottom: 0; !important
 }
  a {
      color:#00ab6b;
