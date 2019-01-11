@@ -7,6 +7,7 @@ License: https://www.wowthemes.net/freebies-license/
  .mainheading {
      padding: .5rem;
      margin-bottom: 1rem;
+     text-align: center;
      background-image: url(../images/paper.jpg);
 }
 .lead {
@@ -385,6 +386,12 @@ span.green {
     }
     h1.posttitle {
          font-weight: 1rem; !important
+    }
+    .mainheading .lead {
+        text-align: center;
+        margin-left: .5rem;
+        font-size: 1rem; !important
+        font-family:Gerogia;
     }
 }
  .share,.share a {
