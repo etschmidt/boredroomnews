@@ -16,4 +16,4 @@ Not everyone is excited about the changes and Boredroom News has spoken to many 
 
 Ms. McGill assures that the company is addressing these issues. "As Amazon grows, so will it's Prime Now footprint. It's really only a matter of time that all employees will be able to use their paycheck to purchase food and other necessary goods."
 
-Amazon has clarified that employees' credits apply only to Prime Now services and are not redeemable for any other Amazon purchases.
+Amazon has clarified that employees' credits apply only to Prime Now services and are not redeemable for any other online or Whole Foods purchases.
