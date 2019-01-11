@@ -380,12 +380,18 @@ span.green {
          text-align:center;
     }
 }
+
+/* MOBILE VIEWS */
+
  @media (max-width:767px) {
      .post-top-meta.authorpage {
          text-align:center;
     }
     h1.posttitle {
          font-weight: 1rem; !important
+    }
+    .mainheading {
+        margin-bottom: .25rem;    
     }
     .mainheading .lead {
         text-align: center;
