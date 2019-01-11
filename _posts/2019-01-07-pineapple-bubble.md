@@ -12,7 +12,7 @@ OMAHA, NE - How much do we really know about pineapples? I know that they're all
 
 Or maybe it can, who knows?
 
-Do you even know more about pineapples than Bitcoin or mortgage-backed securities? No, you don't. So why wouldn't there be a large pineapple bubble on the horizon? What if half the world's economy is fueled by fifteen farmers in -- where ever the hell pineapples grow -- over-speculating on the next what the pineapple gods will bestow upon them next season. Maybe all those Chinese manufacturers are using discarded pineapple fronds to make iPhones; you can't say they aren't.
+Do you even know more about pineapples than Bitcoin or mortgage-backed securities? No, you don't. So why wouldn't there be a large pineapple bubble on the horizon? What if half the world's economy is fueled by fifteen farmers in -- where ever the hell pineapples grow -- over-speculating on the next what the pineapple gods will bestow upon them next season. Maybe all those Chinese manufacturers are using discarded pineapple fronds to make iPhones; you can't say they aren't. Maybe the Trump's tariffs affect pineapples, you can't say they don't.
 
 Where _do_ pineapple trees grow now? Did you know that there aren't even such a thing as pineapple trees: they grow on the ground like this:
 
