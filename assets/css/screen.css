@@ -391,12 +391,9 @@ span.green {
     h1.posttitle {
          font-weight: 1rem !important;
     }
-    .mainheading {
-        margin-bottom: .25rem;    
-    }
     .mainheading .lead {
         text-align: center;
-        margin-left: .5rem;
+        margin: 0;
         font-size: 1.25rem !important;
         font-family:Gerogia;
     }
