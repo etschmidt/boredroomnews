@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Rogue Quantitative Easing Ops: Is Bernake to Blame?"
+title: "Rogue Quantitative Easing Ops: Is Bernake to Blame?"
 author: milton
 categories: [ Federal Reserve, Bernake ]
 image: assets/images/bernake.jpg
