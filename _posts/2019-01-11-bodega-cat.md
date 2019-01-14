@@ -2,7 +2,7 @@
 layout: post
 title: "Bodega Cat Promoted to CFO"
 author: jack
-categories: [ cat, bodega ]
+categories: [ general, finance ]
 image: assets/images/bodega-cat.jpg
 featured: false
 hidden: false

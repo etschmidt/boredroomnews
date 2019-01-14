@@ -2,7 +2,7 @@
 layout: post
 title:  "McKinsey Had History of Assisting Middle East Regimes"
 author: milton
-categories: [ consulting, McKinsey ]
+categories: [ consulting, general ]
 image: assets/images/arrest_of_jesus.jpg
 featured: true
 hidden: true

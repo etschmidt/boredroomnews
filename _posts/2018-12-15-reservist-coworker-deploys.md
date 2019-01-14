@@ -2,7 +2,7 @@
 layout: post
 title:  "Reservist Coworker 'Deploys', Gets Paid to Drink, Party in San Diego"
 author: janet
-categories: [ Navy, MetLife ]
+categories: [ gossip, labor ]
 image: assets/images/sailors.jpg
 featured: false
 hidden: false

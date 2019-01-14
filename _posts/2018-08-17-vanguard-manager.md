@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Vanguard Advisor Also Passvely Managing Own Life"
+title:  "Vanguard Advisor Also Passively Managing Own Life"
 author: warren
-categories: [ Vanguard ]
+categories: [ finance, general ]
 image: assets/images/vanguard.jpg
 featured: true
 hidden: true

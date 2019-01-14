@@ -2,7 +2,7 @@
 layout: post
 title: "Amazon Raises Wages to $15; Only Redeemable through Prime Now"
 author: milton
-categories: [ amazon, minimum wage ]
+categories: [ tech, labor ]
 image: assets/images/Amazon-worker.jpg
 featured: false
 hidden: false

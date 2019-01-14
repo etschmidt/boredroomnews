@@ -2,7 +2,7 @@
 layout: post
 title: "Is the Global Pineapple Market the Next Big Bubble"
 author: warren
-categories: [ bubble, pineapple, bitcoin, Dole ]
+categories: [ finance ]
 image: assets/images/farmer-pineapple.jpg
 featured: false
 hidden: false
