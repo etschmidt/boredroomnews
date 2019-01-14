@@ -1,7 +1,6 @@
 ---
 layout: page
-permalink: /categories/
-title: Categories
+title: Topics
 comments: false
 ---
 
