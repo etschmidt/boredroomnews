@@ -10,7 +10,7 @@ comments: false
     
     <div class="row listrecent">
 
-        {% for post in site.categories.Finance %}
+        {% for post in site.categories.finance %}
 
                {% include postbox.html %}          
 

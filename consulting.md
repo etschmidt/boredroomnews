@@ -10,7 +10,7 @@ comments: false
     
     <div class="row listrecent">
 
-        {% for post in site.categories.Consulting %}
+        {% for post in site.categories.consulting %}
 
                {% include postbox.html %}          
 
