@@ -15,7 +15,7 @@ comments: false
 		    	<div id="#{{ category_name | slugize }}"></div>
 		    	<p></p>
 		    
-		    	<h3 class="category-head">{{ category_name }}</h3>
+		    	<h3 class="category-head"><a href="{{ sit.baseurl }}{{site.categories[category_name] }}">{{ category_name }}</a></h3>
 		    
 		    	<a name="{{ category_name | slugize }}"></a>
 		    	{% for post in site.categories[category_name] %}
