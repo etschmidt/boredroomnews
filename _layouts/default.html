@@ -91,7 +91,8 @@
                   <a class="nav-link dropdown-toggle" href="{{ site.baseurl }}/categories" id="navbardrop" data-toggle="dropdown">Sections</a>
                       <div class="dropdown-menu">
                       {% for category in site.categories %}
-                        <a class="dropdown-item" href="{{ site.baseurl }}{{ category_name }}">{{ category_name }}</a>
+                      {% capture category_name %}{{ category | first }}{% endcapture %}
+                        <a class="dropdown-item" href="{{ site.baseurl }}{{ category_name | slugize }}">{{ category_name }}</a>
                       {% endfor %}
                       </div>
                 </li>
