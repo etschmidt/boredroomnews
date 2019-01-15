@@ -10,7 +10,9 @@ comments: false
 	<div class="section-title">
 		<div id="archives">
 		{% for post in site.categories.Tech %}
-			<li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url }}">{{ post.title }}</a></li>
+	    	<article class="archive-item">
+	      		<h4><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h4>
+	    	</article>
 		{% endfor %}
 		</div>
 
