@@ -1,21 +1,22 @@
 ---
-layout: default
+layout: page
 title: Tech
+comments: false
 ---
 
 <!-- Begin List Posts
 ================================================== -->
 <section class="recent-posts">
-<div class="section-title">
-    <h2>Archive of posts in <span>Tech</span></h2>
-</div>
-<div class="row listrecent">
+	<div class="section-title">
+	    <h2>Archive of posts in <span>Technology</span></h2>
+	</div>
+	<div class="row listrecent">
 
-{% for post in site.categories.Tech %}
+	{% for post in site.categories.Tech %}
 
-    {% include postbox.html %}
+	    {% include postbox.html %}
 
-{% endfor %}
+	{% endfor %}
 
-</div>
+	</div>
 </section>
