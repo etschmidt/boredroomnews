@@ -14,7 +14,7 @@ comments: false
 		    {% capture category_name %}{{ category | first }}{% endcapture %}
 		    	<div id="#{{ category_name | slugize }}"></div>
 		    	
-		    	<h3 class="category-head"><a href="{{ site.baseurl }}{{site.categories[category_name] }}>{{ category_name }}</a</h3>
+		    	<h3 class="category-head"><a href="{{ site.baseurl }}{{site.categories[category_name] }}>{{ category_name }}</a></h3>
 		    
 		    	<a name="{{ category_name | slugize }}"></a>
 		    	{% for post in site.categories[category_name] %}
