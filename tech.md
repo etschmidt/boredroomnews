@@ -4,17 +4,34 @@ title: Tech
 comments: false
 ---
 
-<!-- Begin List Posts
+<!-- Posts Index
 ================================================== -->
 <section class="recent-posts">
-	<div class="section-title">
-		<div id="archives">
-		{% for post in site.categories.Tech %}
-	    	<article class="row listrecent">
-	      		{% include postbox.html %}
-	    	</article>
-		{% endfor %}
-		</div>
+    
+    <div class="section-title">
+        
+        <h2><span>All Stories</span></h2>
+        
+    </div>
+    
+    <div class="row listrecent">
 
-	</div>
+        {% for post in site.categories.Tech %}
+
+               {% include postbox.html %}          
+
+        {% endfor %}
+        
+    </div>
+    
 </section>
+
+<!-- Pagination
+================================================== -->
+<div class="bottompagination">
+	<div class="pointerup"><i class="fa fa-caret-up"></i></div>
+	<span class="navigation" role="navigation">
+	    {% include pagination.html %}
+	</span>
+</div>
+
