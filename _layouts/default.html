@@ -88,12 +88,14 @@
                 {% else %}
                 <li class="nav-item dropdown">
                 {% endif %}
-                  <a class="nav-link dropdown-toggle" href="{{ site.baseurl }}/categories" id="navbardrop" data-toggle="dropdown">Sections</a>
+                  <a class="nav-link dropdown-toggle" id="navbardrop" data-toggle="dropdown">Sections</a>
                       <div class="dropdown-menu">
-                      {% for category in site.categories %}
-                      {% capture category_name %}{{ category | first }}{% endcapture %}
-                        <a class="dropdown-item" href="{{ site.baseurl }}{{ category_name | slugize }}">{{ category_name }}</a>
-                      {% endfor %}
+                        <a class="dropdown-item" href="{{ site.baseurl }}/categories">ALL</a>
+                        <a class="dropdown-item" href="{{ site.baseurl }}/tech">Tech</a>
+                        <a class="dropdown-item" href="{{ site.baseurl }}/finance">Finance</a>
+                        <a class="dropdown-item" href="{{ site.baseurl }}/general">General</a>
+                        <a class="dropdown-item" href="{{ site.baseurl }}/labor">Labor</a>
+                        <a class="dropdown-item" href="{{ site.baseurl }}/gossip">Gossip</a>
                       </div>
                 </li>
 
