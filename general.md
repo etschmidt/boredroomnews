@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Technology
+title: General
 comments: false
 ---
 
@@ -10,7 +10,7 @@ comments: false
     
     <div class="row listrecent">
 
-        {% for post in site.categories.Tech %}
+        {% for post in site.categories.General %}
 
                {% include postbox.html %}          
 

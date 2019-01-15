@@ -80,38 +80,38 @@
                 {% else %}
                 <li class="nav-item">
                 {% endif %}
-                <a class="nav-link" href="{{ site.baseurl }}/index.html">Headlines</a>
+                  <a class="nav-link" href="{{ site.baseurl }}/index.html">Headlines</a>
                 </li>
                 
+                {% if page.url == "/categories.html" %}
+                <li class="nav-item dropdown active">
+                {% else %}
+                <li class="nav-item dropdown">
+                {% endif %}
+                  <a class="nav-link dropdown-toggle" href="{{ site.baseurl }}/categories" id="navbardrop" data-toggle="dropdown">Sections</a>
+                      <div class="dropdown-menu">
+                        <a class="dropdown-item" href="#">Link 2</a>
+                        <a class="dropdown-item" href="#">Link 3</a>
+                      </div>
+
+                </li>
+
                 {% if page.url == "/about.html" %}
                 <li class="nav-item active">
                 {% else %}
                 <li class="nav-item">
                 {% endif %}
-                <a class="nav-link" href="{{ site.baseurl }}/about">About</a>
+                  <a class="nav-link" href="{{ site.baseurl }}/about">About</a>
                 </li>
                 
+                {% if page.url == "/contact.html" %}
+                <li class="nav-item active">
+                {% else %}
                 <li class="nav-item">
-                <a class="nav-link" href="{{ site.baseurl }}/contact">Contact</a>
-                </li>
-                
-                <!--
-                <li class="nav-item">
-                <a target="_blank" class="nav-link" href="https://www.wowthemes.net/themes/mediumish-wordpress/"><i class="fab fa-wordpress-simple"></i> WP Version</a>
-                </li>
-                
-                <li class="nav-item">
-                <a target="_blank" class="nav-link" href="https://www.wowthemes.net/themes/mediumish-ghost/"><i class="fab fa-snapchat-ghost"></i> Ghost Version</a>
+                {% endif %}
+                  <a class="nav-link" href="{{ site.baseurl }}/contact">Contact</a>
                 </li>
 
-                <li class="nav-item">
-                <a target="_blank" class="nav-link" href="https://www.facebook.com/wowthemesnet/"><i class="fab fa-facebook-f"></i></a>
-                </li>
-                
-                <li class="nav-item">
-                <a target="_blank"  class="nav-link" href="https://twitter.com/wowthemesnet"><i class="fab fa-twitter"></i></a>
-                </li>
-                -->
             </ul>		
   
         <!-- End Menu -->
