@@ -2,7 +2,7 @@
 layout: post
 title:  "Networking Event Also Satanic Orgy"
 author: janet
-categories: [ networking ]
+categories: [  ]
 image: assets/images/eyeswideshut.jpg
 featured: false
 hidden: true

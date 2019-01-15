@@ -2,7 +2,7 @@
 layout: post
 title:  "Apple Discovers that Underpaid Chinese Laborers Can't Afford $1,000 iPhones"
 author: jack
-categories: [ tech, labor ]
+categories: [ Tech, Labor ]
 image: assets/images/Foxconn-Factory.jpg
 featured: false
 hidden: false

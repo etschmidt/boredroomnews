@@ -2,7 +2,7 @@
 layout: post
 title:  "Huawei, ZTE Bans Cripple Teledildonics Industry"
 author: jack
-categories: [ huawei, ZTE, Trump ]
+categories: [  ]
 image: assets/images/dildo-factory.jpg
 featured: false
 hidden: true

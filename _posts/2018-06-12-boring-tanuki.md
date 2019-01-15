@@ -2,7 +2,7 @@
 layout: post
 title:  "Shape-shifting Raccoon Dogs Impede ElonMusk's Tunnel Construction"
 author: warren
-categories: [ Elon Musk, tanuki ]
+categories: [  ]
 image: assets/images/tanuki.jpg
 featured: false
 hidden: true

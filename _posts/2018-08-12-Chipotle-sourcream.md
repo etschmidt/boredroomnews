@@ -2,7 +2,7 @@
 layout: post
 title:  "Chipotle Unveils All-Sourcream Burrito"
 author: warren
-categories: [ general ]
+categories: [ General ]
 image: assets/images/sourcream.jpg
 featured: false
 hidden: false
