@@ -5,7 +5,7 @@ author: warren
 categories: [ finance, general ]
 image: assets/images/vanguard.jpg
 featured: false
-hidden: true
+hidden: false
 ---
 
 MALVERN, PA - Mid-level fund advisor Donald Burton at [The Vanguard Group](https://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapId=417222) has extended his investment strategy of passive management into his personal life. Instead of seeking out social activities, romantic relationships, or any personal improvement, Mr. Burton has opted to focus his life targets around certain benchmarks.
