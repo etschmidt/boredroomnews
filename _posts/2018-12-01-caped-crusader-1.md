@@ -2,7 +2,7 @@
 layout: post
 title: "BREAKING: Caped Crusader Spotted on Wall Street"
 author: warren
-categories: [ Finance, Gossip ]
+categories: [ finance, gossip ]
 image: assets/images/batman-on-computer.jpg
 featured: false
 hidden: false
