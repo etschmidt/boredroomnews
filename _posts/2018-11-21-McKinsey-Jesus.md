@@ -5,7 +5,7 @@ author: milton
 categories: [ general ]
 image: assets/images/arrest_of_jesus.jpg
 featured: true
-hidden: true
+hidden: false
 ---
 
 JERUSALEM - Reports bribing to [Ukrainian oligarchs](https://www.nytimes.com/2018/12/30/world/mckinsey-bribes-boeing-firtash-extradition.html), helping China build [internment camps](https://www.nytimes.com/2018/12/15/world/asia/mckinsey-china-russia.html), siphoning [public funds](https://www.nytimes.com/2018/06/26/world/africa/mckinsey-south-africa-eskom.html) in South Africa; 2018 was a hard year for McKinsey & Company in the press. However, Boredroom News has uncovered new documents that attest before the global management consulting company's scandal in [Saudi Arabia](https://slate.com/news-and-politics/2018/10/mckinsey-saudi-arabia-consulting-scandal.html) the firm had a history of similar activity in the region.
