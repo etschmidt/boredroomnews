@@ -4,7 +4,7 @@ title:  "Vanguard Advisor Also Passively Managing Own Life"
 author: warren
 categories: [ finance, eneral ]
 image: assets/images/vanguard.jpg
-featured: true
+featured: false
 hidden: true
 ---
 
