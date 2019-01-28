@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Gossip
+title: Opinion
 comments: false
 ---
 
@@ -10,7 +10,7 @@ comments: false
     
     <div class="row listrecent">
 
-        {% for post in site.categories.gossip %}
+        {% for post in site.categories.opinion %}
 
                {% include postbox.html %}          
 

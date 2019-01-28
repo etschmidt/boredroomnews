@@ -4,8 +4,8 @@ title: "Slack Changes Logo to the Yellow Sign"
 author: jack
 categories: [ tech ]
 image: assets/images/the-yellow-sign.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 ---
 
 SAN FRANCISCO, CA - Millions of Slack users noticed a change in the popular chat application Tuesday; the familiar hashtag (or octothorpe) icon had been replaced with a strange symbol, spoken of in hushed whispers as the Yellow Sign. Social media was seemingly in an [uproar](https://www.standard.co.uk/tech/slack-logo-change-reactions-a4041301.html) over the logo's evolution, but perhaps the method to the madness was, in fact, madness itself. 
