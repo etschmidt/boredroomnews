@@ -31,8 +31,12 @@
 {% endif %}
 
 <meta name="twitter:card"  content="summary_large_image">
+
+<!-- open graph and twitter images -->
+{% if page.image %}
+<meta property="og:image" content="path/to/post/image.jpg">
 <meta name="twitter:image:src" content="{{ site.url }}/{{ page.image }}">
-<!-- end of Twitter cards -->
+{% endif %}
 
 </head>
     
