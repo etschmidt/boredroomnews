@@ -4,7 +4,7 @@ title:  "McKinsey Had History of Assisting Middle East Regimes"
 author: milton
 categories: [ general ]
 image: assets/images/arrest_of_jesus.jpg
-featured: true
+featured: false
 hidden: false
 ---
 
