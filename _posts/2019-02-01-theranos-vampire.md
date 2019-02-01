@@ -4,7 +4,7 @@ title: "HBO Theranos Doc to Focus on Holmes as Blood-stealing Vampire"
 author: milton
 categories: [ general ]
 image: assets/images/theranos.jpg
-featured: false
+featured: true
 hidden: true
 ---
 
