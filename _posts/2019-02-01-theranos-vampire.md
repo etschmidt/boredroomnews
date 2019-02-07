@@ -4,8 +4,8 @@ title: "HBO Theranos Doc to Focus on Holmes as Blood-stealing Vampire"
 author: milton
 categories: [ general ]
 image: assets/images/theranos.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 ---
 
 PARK CITY, UT - At the Sundance Film Festival last weekend, Academy Award winner [Alex Gibney](https://www.hbo.com/hbo-news/alex-gibney-theranos) debuted his latest collaboration with the HBO network, _The Inventor: Out for Blood in Silicon Valley_, that recounts the rise and fall Theranos, former start-up unicorn that [shuttered last year](https://money.cnn.com/2018/09/05/technology/theranos-elizabeth-holmes/index.html) after a massive [fraud investigation](https://money.cnn.com/2018/03/14/technology/theranos-fraud-scandal/index.html), and Elizabeth Holmes, its wunderkind Chief Executive. Much of the film was was well-received for the raw exposure of Ms. Holmes, who is revealed to be a centuries-old vampire whose bloodlust is said to be the impetus for Theranos itself.
