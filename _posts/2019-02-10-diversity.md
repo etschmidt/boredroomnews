@@ -8,7 +8,7 @@ featured: true
 hidden: true
 ---
 
-NEW YORK, NY - There seems to have been a quite the kerfuffle lately about [certain firm](https://www.nytimes.com/2019/01/27/us/paul-weiss-partner-diversity-law-firm.html) and their recent promotion practices. Now I've been in the corporate world for nearly three decades and I think we've all done more than enough to engender representation in our ranks.
+NEW YORK, NY - There seems to have been a quite the kerfuffle lately about [certain firms](https://www.nytimes.com/2019/01/27/us/paul-weiss-partner-diversity-law-firm.html) and their recent promotion practices. Now I've been in the corporate world for nearly three decades and I think we've all done more than enough to engender representation in our ranks.
 
 _[Ed. note: Mr. Friedman's opinions do not necessarily represent the views of this publication]_
 
