@@ -4,7 +4,7 @@ title: "Isn't Corporate America Diverse Enough?"
 author: milton
 categories: [ opinion, labor ]
 image: assets/images/paul-weiss.jpg
-featured: false
+featured: true
 hidden: true
 ---
 
