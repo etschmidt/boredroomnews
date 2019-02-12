@@ -5,7 +5,7 @@ author: jack
 categories: [ tech, general ]
 image: assets/images/bezos-selfie.jpg
 featured: true
-hidden: false
+hidden: true
 ---
 
 SEATTLE, WA - As the saga of Amazon ([AMZN](https://finance.yahoo.com/chart/AMZN)) founder Jeff Bezos' [divorce](https://www.washingtonpost.com/arts-entertainment/2019/01/09/jeff-bezos-announces-divorce-mackenzie-bezos-after-years-together/), and [threats of extortion](https://www.nytimes.com/2019/02/08/business/media/jeff-bezos-ami-national-enquirer-fight.html) by the National Enquirer over his lewd selfies unfolds, perhaps the most startling fact is that the pictures had been uploaded to Amazon's Prime Video section for almost a month before they were noticed.
