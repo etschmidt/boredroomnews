@@ -4,8 +4,8 @@ title: "Hedge Fund Manager Specializes in Emotionally Distressed Value Dating"
 author: warren
 categories: [ finance, opinion ]
 image: assets/images/sad-woman.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 ---
 
 NEW YORK, NY - Realizing that the New York City dating scene was no longer providing satisfactory returns, local finance professional Jason Harner has turned to alternative markets to find emotionally distressed romantic partners. Mr. Harner, 36, a portfolio manager at Oaktree Capital Management ([OAK](https://finance.yahoo.com/quote/OAK)), hopes that he can meet women in the city so distraught that most men would not risk a relationship. If his prospects' romantic value can be improved by jettisoning toxic assets, such as a recent ex-husband or a crippling relationship with their mother, then Mr. Harner believes
