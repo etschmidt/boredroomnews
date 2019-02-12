@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Bezos Selfies had been Uploaded on Amazon for Weeks Completely Unnoticed"
+title: "Bezos Selfies had been Uploaded on Amazon Prime for Weeks Completely Unnoticed"
 author: jack
 categories: [ tech, general ]
 image: assets/images/bezos-selfie.jpg
