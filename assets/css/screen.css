@@ -387,6 +387,7 @@ span.green {
  @media (max-width:767px) {
      .post-top-meta.authorpage {
          text-align:center;
+         margin-bottom: 0; !important
     }
     h1.posttitle {
          font-weight: 1rem; !important
