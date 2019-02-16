@@ -388,6 +388,10 @@ span.green {
      .post-top-meta.authorpage {
          text-align:center;
          margin-bottom: 0; !important
+         }
+    .author-thumb {
+        display: none;
+        }
     }
     h1.posttitle {
          font-weight: 1rem; !important
