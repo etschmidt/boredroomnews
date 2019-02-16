@@ -7,3 +7,7 @@ image: assets/images/arbys.jpg
 featured: false
 hidden: true
 ---
+
+NEW YORK, NY - 
+
+Hiring manager
