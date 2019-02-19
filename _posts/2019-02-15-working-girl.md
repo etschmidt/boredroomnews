@@ -4,7 +4,7 @@ title: "Trask Acquires Metro Radio for $19.5 Million"
 author: warren
 categories: [ finance, general ]
 image: assets/images/Working-Girl.jpg
-featured: true
+featured: false
 hidden: true
 ---
 
