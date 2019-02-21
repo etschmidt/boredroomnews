@@ -4,8 +4,8 @@ title: "Two-page Resume Only Internships, Interests"
 author: janet
 categories: [ general ]
 image: assets/images/resume.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 ---
 
 NEW YORK, NY - While sifting through a stack of applications this morning, hiring manager Danielle Carin was noticeably confused by a resume spanning two whole pages while containing only part-time internships and myriad, detailed personal interests. Ms. Carin, who is reviewing applicants for Honeywell International's ([HON](https://finance.yahoo.com/quote/HON)) Vice President for Financial Operations, North America, found the submission utterly bizarre as typically such positions attract seasoned professional hires.
