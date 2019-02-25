@@ -3,7 +3,7 @@ layout: post
 title: "English Isles to be Set Adrift as No-Deal Brexit Looms"
 author: warren
 categories: [ general ]
-image: assets/images/dover-chains.jpg
+image: assets/images/chain.jpg
 featured: true
 hidden: true
 ---
