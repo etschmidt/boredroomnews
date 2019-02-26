@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "England to be Set Adrift as No-Deal Brexit Looms"
+title: "U.K. to be Set Adrift as No-Deal Brexit Looms"
 author: warren
 categories: [ general ]
 image: assets/images/chain.jpg
