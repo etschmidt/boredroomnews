@@ -4,8 +4,8 @@ title:  "IBM Rebrands Red Hat, Will Focus on Legacy Windows 98 Support"
 author: warren
 categories: [ tech, finance ]
 image: assets/images/ibm-redhat.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 ---
 
 ARMONK, NY - Accelerating cloud computing was the goal when [IBM](https://finance.yahoo.com/quote/IBM/) [acquired](https://www.nytimes.com/2018/10/28/business/ibm-red-hat-cloud-computing.html) Red Hat([RHT](https://finance.yahoo.com/quote/rht)) last October, and now the technology giant has announced that the former open-source darling will be provide legacy Windows 98 support to IBM clients around the world. 
