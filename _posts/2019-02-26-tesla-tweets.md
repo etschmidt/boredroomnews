@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tesla Board Replaces Elon Musk's Phone with Speak & Spell"
-author: warren
+author: milton
 categories: [ tech ]
 image: assets/images/muskspeak.jpg
 featured: true
