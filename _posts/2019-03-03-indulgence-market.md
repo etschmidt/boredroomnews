@@ -14,4 +14,4 @@ The history of plenary indulgences is fraught with controversy, most notably inc
 
 Since the summit, the Vatican Bank has bolstered its trading desks to develop and sell options against indulgences for specific, high-profile priests whose track records of abuses have been covered up or officially denied; investors are eager to purchase these indulgence derivatives, at-risk should the abusers deny their sins through the Last Rites, but potentially resellable at high-markup as Pope Francis holds many more accountable throughout the Roman Catholic Church.
 
-Although investors expect high indulgence sales to buoy Vatican coffers, few anticipate that these monies will be used to feed the hungry or clothe the poor.
+Although investors expect high indulgence sales to buoy Vatican coffers, few anticipate that these monies will be used to feed the hungry or clothe the poor. 
