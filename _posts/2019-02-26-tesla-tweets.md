@@ -4,8 +4,8 @@ title: "Tesla Board Replaces Elon Musk's Phone with Speak & Spell"
 author: milton
 categories: [ tech ]
 image: assets/images/muskspeak.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 ---
 
 PALO ALTO, CA - Following another [contentious bout](https://www.nytimes.com/2019/02/25/business/elon-musk-contempt-tweet-sec-tesla.html) between Elon Musk and the Securities Exchange Commission, the Tesla ([TSLA](https://finance.yahoo.com/quote/TSLA/)) board voted unanimously to replace their Chief Executive's phone with a 1979-model Speak & Spell children's toy. The SEC has asked a federal court to hold Mr. Musk in contempt for violating procedures that had been put in place after he [tweeted](https://twitter.com/elonmusk/status/1026872652290379776) last October that he had secured funding to take Tesla private.
