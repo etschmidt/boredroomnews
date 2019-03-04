@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Inessential Oils Startup Fails to GAIN Traction in Local Facebook Group"
+title: "Inessential Oils Startup Fails to Gain Traction in Local Facebook Group"
 author: janet
 categories: [ general, tech ]
 image: assets/images/oils.jpg
