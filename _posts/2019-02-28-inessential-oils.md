@@ -4,8 +4,8 @@ title: "Inessential Oils Startup Fails to Gain Traction in Local Facebook Group"
 author: janet
 categories: [ general, tech ]
 image: assets/images/oils.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 ---
 
 GREENSBORO, NC - Despite a fervent marketing push across social media, recent inessential oils startup Scentique is struggling to break into the lucrative ecosystem of the _Greensboro Buy/Sell + Small Business_ group on Facebook. Founded on the heels of more successful multi-level marketing players such as [doTERRA](https://www.doterra.com/US/en) and [ItWorks!](https://www.itworks.us.com/), Scentique specializes in concentrated oils that have zero benefits to both humans as well as the plants and herbs from which they are extracted. Volunteer administrators of the Greensboro group have rejected multiple  attempts to sell Scentique oils on their forum. 
