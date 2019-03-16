@@ -4,8 +4,8 @@ title: "Papal Indulgence Market Bullish After Pope Denounces Sexual Abusers"
 author: warren
 categories: [ finance ]
 image: assets/images/vatican-bankers.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 ---
 
 VATICAN CITY - Reacting to Pope Francis' condemnation of sexual abuse at a [Vatican summit](https://www.nbcnews.com/news/world/pope-francis-sex-abuse-summit-listen-cry-young-who-want-n973896) last week, indulgence trading desks at the Holy See expect strong demand as many more Catholics are officially sinners than before. Investors believe that after the pope summoned church officials from the four corners of Christendom to discuss the "scourge" of abuse against parishioners, alter boys and nuns, the market to reduce the temporal punishment for sin will spike precipitously.
