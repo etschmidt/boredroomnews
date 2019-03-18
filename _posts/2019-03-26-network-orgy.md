@@ -4,7 +4,7 @@ title: "Networking Event Also Satanic Orgy"
 author: janet
 categories: [ labor, opinion ]
 image: assets/images/eyeswideshut.jpg
-featured: false
+featured: true
 hidden: true
 ---
 
