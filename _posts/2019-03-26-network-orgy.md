@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Networking Event Also Satanic Orgy"
+title: "Satanic Orgy Also Networking Event"
 author: janet
 categories: [ labor, opinion ]
 image: assets/images/eyeswideshut.jpg
