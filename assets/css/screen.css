@@ -392,7 +392,7 @@ span.green {
     .author-thumb {
         display: none;
         }
-    }
+    
     h1.posttitle {
          font-size: 2rem; !important
     }
@@ -405,6 +405,12 @@ span.green {
         font-size: 1.25rem; !important
         font-family:Gerogia;
     }
+}
+ @media (min-width: 768px) {
+    .alert-mobile {
+        display: none;
+    }
+ }
 }
  .share,.share a {
      color:rgba(0,0,0,.44);
