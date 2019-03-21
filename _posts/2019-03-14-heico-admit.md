@@ -4,8 +4,8 @@ title: "Unlike Undergrad Scandal, 'MBA Admissions a Complete Meritocracy,' Says 
 author: milton
 categories: [ general ]
 image: assets/images/heico.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 ---
 
 NEW YORK, NY - As the world of higher education reels from the [indictments](https://www.nytimes.com/2019/03/12/us/college-admissions-cheating-scandal.html) of actresses and millionaires in bribing undergraduate admissions departments, those in top business school can rest assured that their path to elite institutions was solely based on their accomplishments, says David Mendelson, a student a Columbia Business School whose family [donated $10 million](https://www.bizjournals.com/southflorida/news/2016/11/25/chairman-of-heico-donates-10m-to-university.html) to the institution.
