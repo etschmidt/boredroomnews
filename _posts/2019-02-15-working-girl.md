@@ -5,7 +5,7 @@ author: warren
 categories: [ finance, general ]
 image: assets/images/Working-Girl.jpg
 featured: false
-hidden: true
+hidden: false
 ---
 
 Trask Industries agreed to acquire the regional radio network Metro Radio Systems in a $19.5 billion bet on jump-starting its efforts to enter broadcast media as well as fight off hostile takeover from competitors.
