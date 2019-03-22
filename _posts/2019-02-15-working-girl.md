@@ -8,7 +8,7 @@ featured: false
 hidden: false
 ---
 
-Trask Industries agreed to acquire the regional radio network Metro Radio Systems in a $19.5 billion bet on jump-starting its efforts to enter broadcast media as well as fight off hostile takeover from competitors.
+NEW YORK, NY - Trask Industries agreed to acquire the regional radio network Metro Radio Systems in a $19.5 billion bet on jump-starting its efforts to enter broadcast media as well as fight off hostile takeover from competitors.
 
 In each of the last three quarters, Trask Industries has announced plans to acquire a major market television station, each time unsuccessfully. At the same time they've expended time and money fighting off a hostile takeover attempt by one of their Japanese competitors. Buying into radio in one fell swoop accomplishes two important tasks. It would give Trask a solid base in broadcasting, and because of FCC regulations forbidding foreign ownership of radio stations, it would wipe out the threat of a Japanese takeover.
 
