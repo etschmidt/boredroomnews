@@ -460,8 +460,8 @@ span.green {
      margin-bottom:1.2rem;
 }
  .btn.follow {
-     border-color:#02B875;
-     color:#1C9963;
+     border-color:#007bff;
+     color:#00fbff;
      padding:3px 10px;
      text-align:center;
      border-radius:999em;
@@ -469,8 +469,8 @@ span.green {
      display:inline-block;
 }
  .btn.subscribe {
-     background-color:#1C9963;
-     border-color:#1C9963;
+     background-color:#007bff;
+     border-color:#007bff;
      color:rgba(255,255,255,1);
      fill:rgba(255,255,255,1);
      border-radius:30px;
@@ -510,8 +510,8 @@ span.green {
      margin-left:5px;
 }
  .alertbar input[type="submit"] {
-     background-color:#1C9963;
-     border:1px solid #1C9963;
+     background-color:#007bff;
+     border:1px solid #007bff;
      color:rgba(255,255,255,1);
      fill:rgba(255,255,255,1);
      font-size:0.85rem;
