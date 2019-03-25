@@ -4,8 +4,8 @@ title: "Satanic Orgy Also Networking Event"
 author: janet
 categories: [ labor, opinion ]
 image: assets/images/eyeswideshut.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 ---
 
 UNDISCLOSED LOCATION, LOWER MANHATTAN - The Society of Baphomet, an ancient cult devoted to orgiastic rites, held their first networking get-together of the spring this week in a cavernous, underground lair located somewhere in the depths of New York City. Formally attended by only the wealthiest and most connected members of high society, the Society of Baphomet recently opened their doors, and legs, to a wider array of students, professionals, and entrepreneurs in hopes of bringing in new participants to the sex-fueled worship of their Dark Master.
