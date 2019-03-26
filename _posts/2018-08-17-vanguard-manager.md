@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Vanguard Advisor Also Passively Managing Own Life"
+title:  "Vanguard Adviser Also Passively Managing Own Life"
 author: warren
 categories: [ finance, general ]
 image: assets/images/vanguard.jpg
@@ -8,7 +8,7 @@ featured: false
 hidden: false
 ---
 
-MALVERN, PA - Mid-level fund advisor Donald Burton at [The Vanguard Group](https://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapId=417222) has extended his investment strategy of passive management into his personal life. Instead of seeking out social activities, romantic relationships, or any personal improvement, Mr. Burton has opted to focus his life targets around certain benchmarks.
+MALVERN, PA - Mid-level fund adviser Donald Burton at [The Vanguard Group](https://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapId=417222) has extended his investment strategy of passive management into his personal life. Instead of seeking out social activities, romantic relationships, or any personal improvement, Mr. Burton has opted to focus his life targets around certain benchmarks.
 
 For example, “in any social setting I’ll only talk to brunette women between 24 and 32 years old, under 5’7” and at least a B-cup,” he told Boredroom News, assuring that he “will talk to all who fit that criteria in the bar.”
 
