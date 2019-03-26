@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Unlike Undergrad Scandal, 'MBA Admissions a Complete Meritocracy,' Says Student Whose Family Donated $10 Million"
+title: "Unlike Undergraduate Scandal, 'MBA Admissions a Complete Meritocracy,' Says Student Whose Family Donated $10 Million"
 author: milton
 categories: [ general ]
 image: assets/images/heico.jpg
