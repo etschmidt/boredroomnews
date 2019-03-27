@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Fox Revives 'Firefly' After Finding Trove of Unread Letters; 'We Didn't Know People Wanted This'"
-author: jack
+author: warren
 categories: [ general, tech ]
 image: assets/images/firefly.jpg
 featured: true
