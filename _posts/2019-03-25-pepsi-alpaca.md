@@ -4,8 +4,8 @@ title: "PepsiCo Sues Coca-Cola Over 'Misleading' Alpaca Blood Ad"
 author: jack
 categories: [ general ]
 image: assets/images/pepsi-alpaca.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 ---
 
 ATLANTA, GA - The farmers in a recent commercial for [Coca-Cola](https://finance.yahoo.com/quote/KO) just wanted to protect their furry camelid friends, but [PepsiCo](https://finance.yahoo.com/quote/PEP) is not amused. The ad, which first aired during the Daytime Emmy Awards broadcast, proudly declared that "all Coca-Cola products are 100% alpaca blood-free" but that the potential alpaca blood content of Pepsi products was unknown.
