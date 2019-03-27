@@ -4,8 +4,8 @@ title: "Hudson Yards Opens Hunting Grounds for The Most Dangerous Game"
 author: milton
 categories: [ general ]
 image: assets/images/hudson-yards.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 ---
 
 NEW YORK, NY - Flocking to the newly-opened [Hudson Yards](https://www.nytimes.com/2019/03/13/style/hudson-yards-shopping.html), shoppers, tourists, and residents of the luxury apartment buildings will find another attraction this week, an open-air game preserve dedicated to hunting the world's most dangerous game, Man.
