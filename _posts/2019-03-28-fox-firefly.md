@@ -4,8 +4,8 @@ title: "Fox Revives 'Firefly' After Finding Trove of Unread Letters; 'We Didn't 
 author: warren
 categories: [ general, tech ]
 image: assets/images/firefly.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 ---
 
 LOS ANGELES, CA - Stunned [Fox](https://finance.yahoo.com/quote/FOX) executives hurriedly green-lit production of new episodes of beloved former television franchise [_Firefly_](https://www.imdb.com/title/tt0303461/) on Wednesday after they realized that there had been nearly two decades of popular demand for the show. Many viewers have been constantly petitioning the production studio for years, but apparently all correspondence on the matter had fallen behind a counter top in the Twentieth Century Fox mail room. 
