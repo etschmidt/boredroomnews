@@ -4,8 +4,8 @@ title: "Embattled Boeing Taps Ghost of Howard Hughes to Design, Pilot 737 Replac
 author: jack
 categories: [ finance, general, tech ]
 image: assets/images/howard-hughes.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 ---
 
 CHICAGO, IL - "There's only one man we considered for the job;" announced [Boeing](https://finance.yahoo.com/quote/BA) Chief Executive Dennis Muilenburg, "Howard Hughes may have died over 40 years ago, but he's still the best we've got." As the aerospace and defense firm attempts to recover from two [high-profile crashes](https://www.nytimes.com/2019/03/12/world/africa/boeing-ethiopian-airlines-plane-crash.html) that has grounded [thousands of flights](https://www.nytimes.com/interactive/2019/03/11/world/boeing-737-max-which-airlines.html) worldwide, bringing back a titan of the industry to helm the development for the 737 Max aircraft is seen by some as a bold move.
