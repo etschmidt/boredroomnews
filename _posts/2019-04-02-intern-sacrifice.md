@@ -4,8 +4,8 @@ title: "Management Tells Abraham to Bring Intern to Sacrifice"
 author: janet
 categories: [ labor, general ]
 image: assets/images/abraham.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 ---
 
 PITTSBURGH, PA - Early this week senior executives at Kraft Heinz [(KHC)](https://www.nasdaq.com/symbol/khc) directed Director of Supply Chain Operations Robert Abraham to take his only MBA intern and sacrifice him as a radical cost-cutting measure.
