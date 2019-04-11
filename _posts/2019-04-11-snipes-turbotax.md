@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Panhandler Extends Omni Channel Presence"
+title: "TurboTax, Wesley Snipes Lobby Congress for Tax Reform"
 author: milton
 categories: [ general, tech ]
 image: assets/images/snipes.jpg
