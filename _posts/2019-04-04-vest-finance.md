@@ -4,8 +4,8 @@ title: "Defying Patagonia, Columbia Sportswear Vest Specifically for High Perfor
 author: warren
 categories: [ finance ]
 image: assets/images/vest.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 ---
 
 BEAVERTON, WA - Although rivals have [eschewed finance professionals](https://www.buzzfeednews.com/article/katienotopoulos/patagonia-power-vest-policy-change), the [Columbia Sportswear Company](https://www.nasdaq.com/symbol/colm) is leaning into the demographic by releasing a new line of fleece vests that have been specifically designed for high performance finance. Throughout Wall Street and Silicon Valley the announcement is being hailed as the next evolution of garment-assisted finance operations.
