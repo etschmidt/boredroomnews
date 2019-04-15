@@ -4,8 +4,8 @@ title: "Panhandler Extends Omni Channel Presence"
 author: jack
 categories: [ general, tech, labor ]
 image: assets/images/homeless.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 ---
 
 AUSTIN, TX - As the digital revolution continues to spread, tech-savvy individuals in every industry have found success -- and panhandling is no exception. Bivouacked on Red River Street between 6th and 7th, local homeless man Robert 'Bob' Munsen has significantly increased his competitive advantage through a robust omni-channel marketing strategy. 
