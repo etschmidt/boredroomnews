@@ -4,8 +4,8 @@ title: "TurboTax, Wesley Snipes Lobby Congress for Tax Reform"
 author: milton
 categories: [ general, tech ]
 image: assets/images/snipes.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 ---
 
 SAN DIEGO, CA - Politics often make strange bedfellow, even strange spokespeople, and tax law reform is no exception; Intuit [(INTU)](https://finance.yahoo.com/quote/INTU), parent of TurboTax has teamed with actor Wesley Snipes in lobbying U.S. Congress. Although the tax preparation behemoth aims to [limit the government](https://www.propublica.org/article/congress-is-about-to-ban-the-government-from-offering-free-online-tax-filing-thank-turbotax) from establishing its own free filing service, the [Blade Trinity](https://www.imdb.com/title/tt0359013/) star's goal is bar all tax filing and collection entirely.
