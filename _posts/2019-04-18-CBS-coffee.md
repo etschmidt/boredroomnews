@@ -8,7 +8,7 @@ featured: true
 hidden: true
 ---
 
-NEW YORK CITY, NY - The world of elite education is no stranger to controversy or ideology, but one institution may have gone too far; Columbia Business School has halted all free coffee for students and faculty effective immediately in an effort to rid its halls of the 'spectre of Communism.' Incoming class president, Ethan T. Schmidt, has championed the move as part of a three-pronged approach to purge anti-Capitalist agitators from CBS. 
+NEW YORK CITY, NY - The world of elite education is no stranger to controversy or ideology, but one institution may have gone too far; Columbia Business School has halted all free coffee for students and faculty effective immediately in an effort to rid its halls of the 'specter of Communism.' Incoming class president, Ethan T. Schmidt, has championed the move as part of a three-pronged approach to purge anti-Capitalist agitators from CBS. 
 
 "This 'sharing' economy has gone too far," wrote President-elect Schmidt in a school-wide announcement, "we must return to the traditional values of self-interested exchange of good and services. Effective immediately, the coffee [in the student lounge] will be sold at market price. If you want coffee for your own personal consumption, then you are more than welcome to buy it yourself, but the rest of us aren’t going to support freeloaders. The same goes for Bloomberg terminal access – if you currently don't have enough capital to invest in a personal subscription, sell your labor for wages until you do."
 
