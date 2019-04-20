@@ -4,8 +4,8 @@ title: "Callahan Auto Defeats Zalinsky Takeover Attempt"
 author: jack
 categories: [ general, finance ]
 image: assets/images/tommyboy.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 ---
 
 SANDUSKY, OH - A shocking week for Callahan Auto Parts came to a fortunate close today as new Chief Executive Thomas Callahan III successfully defended the firm from Chicago rival, Zalinsky Industries. Earlier reports that Zalinsky would gain a controlling stake in the Ohio auto parts factory seem to be premature, as legal complications have stayed the sale of shares and Raymond Zalinsky has since publicly announced a purchase order from Callahan for 500,000 brake pads. 
