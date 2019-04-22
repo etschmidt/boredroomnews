@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Samsung Contracts Del Taco to Maximize Phone Foldability"
+title: "Samsung Contracts Del Taco to Maximize Galaxy Foldability"
 author: jack
 categories: [ tech ]
 image: assets/images/tacofold.jpg
