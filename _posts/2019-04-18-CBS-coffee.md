@@ -4,8 +4,8 @@ title: "Top Business School Bans Free Coffee, Cites 'Communist Scourge'"
 author: warren
 categories: [ general, labor ]
 image: assets/images/coffeemarx.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 ---
 
 NEW YORK CITY, NY - The world of elite education is no stranger to controversy or ideology, but one institution may have gone too far; Columbia Business School has halted all free coffee for students and faculty effective immediately in an effort to rid its halls of the 'specter of Communism.' Incoming class president, Ethan T. Schmidt, has championed the move as part of a three-pronged approach to purge anti-Capitalist agitators from CBS. 
