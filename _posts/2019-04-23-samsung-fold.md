@@ -4,8 +4,8 @@ title: "Samsung Contracts Del Taco to Maximize Galaxy Foldability"
 author: jack
 categories: [ tech ]
 image: assets/images/tacofold.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 ---
 
 LAKE FOREST, CA - After a major [setback](https://www.cnbc.com/2019/04/22/samsung-galaxy-fold-launch-delayed.html) in launching the new Galaxy Fold line of phones, Samsung ([SSNLF](https://www.nasdaq.com/symbol/ssnlf)) has returned to the drawing board with aided by Del Taco's ([TACO](https://www.nasdaq.com/symbol/ssnlf)) foremost folding technicians. The Southern California fast food chain was enlisted by the beleaguered electronics maker to optimize the foldability of the new cell phones ahead of a global launch.
