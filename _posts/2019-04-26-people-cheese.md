@@ -4,8 +4,8 @@ title: "People Cheese Startup Acquires Maternity Wards Throughout State"
 author: jack
 categories: [ tech, labor ]
 image: assets/images/cheese.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 ---
 
 LANCASTER, PA - A darling of the food technology space, DareY (pronounced "dairy"), rapidly accelerated their growth this week through the purchase of multiple maternity wards in Eastern Pennsylvania. Although the startup has not disclosed the sums paid, sources close to the project estimate that DareY has spent over $100 million in its quest to sustainably produce cheese from human milk. 
