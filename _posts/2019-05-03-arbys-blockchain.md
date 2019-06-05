@@ -4,8 +4,8 @@ title: "Arby's Introduces Roast Beef & Cheddar with Extra Blockchain"
 author: janet
 categories: [ tech, general ]
 image: assets/images/arbys.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 ---
 
 ATLANTA, GA - Maybe the perfect topping on a "mountain of meat" really is a secure, decentralized currency; at least that's what Arby's ([ARBY](https://finance.yahoo.com/quote/WEN/)) is counting on with the launch of its newest line of roast beef and blockchain sandwiches.
