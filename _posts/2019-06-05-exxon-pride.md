@@ -8,7 +8,7 @@ featured: true
 hidden: true
 ---
 
-ANCHORAGE, AK - In a show of solidarity with the LGBT community during Pride Month [many companies](https://www.buzzfeed.com/jarrylee/beautiful-rainbow-brand-logos-celebrating-marriage-equality) have unveiled new logos that incorporates the rainbow flag, but only [ExxonMbile](https://finance.yahoo.com/quote/XOM) has spread over 10 million gallons of crude oil across pristine Alaskan waters to create a massive rainbow in the name of diversity, acceptance, and inclusion.
+ANCHORAGE, AK - In a show of solidarity with the LGBT community during Pride Month [many companies](https://www.buzzfeed.com/jarrylee/beautiful-rainbow-brand-logos-celebrating-marriage-equality) have unveiled new logos that incorporates the rainbow flag, but only [ExxonMobile](https://finance.yahoo.com/quote/XOM) has spread over 10 million gallons of crude oil across pristine Alaskan waters to create a massive rainbow in the name of diversity, acceptance, and inclusion.
 
 “The rainbow is recognized worldwide as the symbol of LGBT equality and we are proud to display it over thousands of miles of coastline. Every fisherman, sea otter, and American bald eagle will see the effects of ExxonMobile's solidarity and support for the LGBT community for several decades to come," says Erin Winebark, the oil giant's Vice President for Diversity and Maritime Disasters.
 
