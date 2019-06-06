@@ -4,8 +4,8 @@ title: "Ford Memorial Day Sale Now Explicitly in Honor of Both Sides"
 author: milton
 categories: [ general ]
 image: assets/images/fordmemorialday.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 ---
 
 DETROIT, MI - In a Shocking move to some, but a progressive stance for a new era to others, the Ford Motor Company ([F](https://finance.yahoo.com/quote/F)) announced that their annual Memorial Day sales event now supports both American combatants as well as their opponents on the battlefield. "Ford has always been 100% committed to the troops," says Evelyn Jasper, the firm's newly-instated vice president of marketing for diversity and inclusion, "but who are we to say that veterans of only one side of a conflict deserve an all-time low of 1.6% APR on a new Super Duty F-350?" 
