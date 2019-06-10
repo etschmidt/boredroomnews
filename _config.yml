@@ -57,7 +57,8 @@ authors:
 plugins: 
   - jekyll-paginate
   - jekyll-archives
-    
+  - jekyll-seo-tag    
+
 # Archives
 jekyll-archives:
   enabled:
