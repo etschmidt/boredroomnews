@@ -4,8 +4,8 @@ title: "Beyond Meat CEO Driven to Push Beyond All Other Corporeal Limitations As
 author: warren
 categories: [ general, tech ]
 image: assets/images/beyondmeat.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 ---
 
 EL SEGUNDO, CA - "Releasing ourselves from the burden of consuming flesh is only the beginning," announced Ethan Brown to a rapt audience at the headquarters of [Beyond Meat](https://finance.yahoo.com/quote/BYND/), the plant-based food company. "Our True selves are currently trapped by the vibrational resonance of the Third Dimension to keep us from Complete Ascension. Beyond Meat has shown that we can break our dependence on the bodies of Holstein cows, and soon break the dependence on our own 'bodies' as well."
