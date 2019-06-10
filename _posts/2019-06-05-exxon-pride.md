@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Yass Queen! ExxonMobile Celebrates Pride Month by Dumping Rainbow Oil Sheen Across Arctic"
+title: "Yass! ExxonMobile Celebrates Pride Month by Dumping Rainbow Oil Sheen Across Arctic"
 author: jack
 categories: [ general, labor ]
 image: assets/images/oilspill.jpg
