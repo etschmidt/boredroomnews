@@ -2,7 +2,7 @@
 layout: post
 title: "Client Presentation Somehow Includes Entirety Kubrick's 1975 Epic _Barry Lyndon_"
 author: milton
-categories: [ general, labor ]
+categories: [ labor ]
 image: assets/images/barrylyndon.jpg
 featured: true
 hidden: true
