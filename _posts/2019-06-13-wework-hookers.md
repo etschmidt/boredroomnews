@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "WeWork Launches Chain of Bespoke Brothels"
-author: janet
+author: milton
 categories: [ general, tech ]
 image: assets/images/hookers.jpg
 featured: true
