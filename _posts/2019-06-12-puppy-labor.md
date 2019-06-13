@@ -4,8 +4,8 @@ title: "Puppy Mill Under Investigation by Puppy Labor Bureau"
 author: janet
 categories: [ labor ]
 image: assets/images/puppymill.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 ---
 
 KNOXVILLE, TN - Reports of abuse at [puppy mills](https://www.huffpost.com/entry/shut-down-puppy-mills_b_9692722) are not new, but this week a flour mill owned by the [Sara Lee](https://en.wikipedia.org/wiki/Sara_Lee_Corporation) is being heavily scrutinized by the Puppy Labor Bureau, according to the lead investigator, Sergent Peppers, a 7-year-old Australian Shepherd. Puppies at the mill, whose responsibilities range from driving the grindstone to financial planning and accounting, have complained of low quality chew toys, lack of sufficient nuzzles, and violent anti-union practices.
