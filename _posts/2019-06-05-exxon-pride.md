@@ -4,8 +4,8 @@ title: "ExxonMobile Celebrates Pride Month by Dumping Rainbow Oil Sheen Across A
 author: jack
 categories: [ general, labor ]
 image: assets/images/oilspill.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 ---
 
 ANCHORAGE, AK - In a show of solidarity with the LGBT community during Pride Month [many companies](https://www.buzzfeed.com/jarrylee/beautiful-rainbow-brand-logos-celebrating-marriage-equality) have unveiled new logos that incorporates the rainbow flag, but only [ExxonMobile](https://finance.yahoo.com/quote/XOM) has spread over 10 million gallons of crude oil across pristine Alaskan waters to create a massive rainbow in the name of diversity, acceptance, and inclusion.
