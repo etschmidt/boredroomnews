@@ -4,8 +4,8 @@ title: "WeWork Launches Chain of Bespoke Brothels"
 author: milton
 categories: [ general, tech ]
 image: assets/images/hookers.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 ---
 
 NEW YORK CITY - Some of Midtown's history will be returning later this year as [WeWork](https://en.wikipedia.org/wiki/WeWork), the unicorn co-working startup, has chosen [5 Times Square](https://www.google.com/maps/search/5+Times+Square,+New+York,+NY+10036/@40.7558284,-73.9896459) as the flagship location of its newest venture, WeStroke. Designed as part courtesan lounge, part cubicle farm, but mostly back-alley jerk shack, WeStroke is one of many [assets](https://www.cnn.com/2018/10/30/tech/wework-school-wegrow/index.html) The We Company has promoted ahead of its anticipated IPO.
