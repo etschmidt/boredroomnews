@@ -8,7 +8,7 @@ featured: true
 hidden: true
 ---
 
-:party-corgi: <img src="{{site.baseurl}}/assets/images/party-corgi.gif" width="10" height="10" /> is legally accepted as an affirmative response
+:party-corgi: <img src="{{site.baseurl}}/assets/images/party-corgi.gif" width="20" height="20" /> is legally accepted as an affirmative response
 
 
 Snoozing notifications lets co-workers know that you're not a team player who is committed %100.  If you get a snooze response from someone, be sure to call their personal line and tell them to get back on track
