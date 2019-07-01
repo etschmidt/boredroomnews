@@ -4,8 +4,8 @@ title: "10 Rules Every Professional Needs To Know About Slack Etiquette"
 author: jack
 categories: [ tech, opinion ]
 image: assets/images/slack.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 ---
 
 [Slack](https://finance.yahoo.com/quote/WORK), the workplace collaboration company, started [trading](https://www.nytimes.com/2019/06/20/technology/slack-stock-ipo-price-trading.html) on the New York Stock Exchange today, greatly surpassing its private valuation. The popular chat application rolled out into the workforce [so quickly](https://www.nytimes.com/2019/06/19/style/slack-replace-email-ipo-listing.html), that some are lost trying to adjust to the new platform. We at Boredroom News have compiled a list of the top etiquette tips to excel at Slack:
