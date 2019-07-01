@@ -3,7 +3,7 @@ layout: post
 title: "How Deutsche Bank is Slimming Down for Bikini Season"
 author: milton
 categories: [ finance ]
-image: assets/images/PGTM.jpg
+image: assets/images/deutschesummer.jpg
 featured: true
 hidden: true
 ---
