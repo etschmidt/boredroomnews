@@ -25,6 +25,10 @@ post_class: post-template
                 <!-- Post Title -->
                 <h1 class="posttitle">{{ page.title }}</h1> 
                 
+                <!-- Post Featured Image -->
+                {% if page.image %}<img class="featured-image img-fluid" src="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ page.image | absolute_url }}{% endif %}" alt="{{ page.title }}">{% endif %}
+                <!-- End Featured Image -->
+
                 <!-- Author Box -->
                 {% if page.author %}				
 				<div class="row post-top-meta"> 
@@ -41,10 +45,6 @@ post_class: post-template
                 {% endif %}
                 
 			</div>
-
-			<!-- Post Featured Image -->
-			{% if page.image %}<img class="featured-image img-fluid" src="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ page.image | absolute_url }}{% endif %}" alt="{{ page.title }}">{% endif %}
-			<!-- End Featured Image -->
 
 			<!-- Post Content -->
 			<div class="article-post">
