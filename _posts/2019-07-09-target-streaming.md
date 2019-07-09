@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Target Announces New Streaming Service from Security Camera Feeds"
-author: warren
+author: jack
 categories: [ general, tech ]
 image: assets/images/target.jpg
 featured: true
