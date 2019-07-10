@@ -4,8 +4,8 @@ title: "How Deutsche Bank is Slimming Down for Bikini Season"
 author: milton
 categories: [ finance ]
 image: assets/images/deutschesummer.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 ---
 
 FRANKFURT, GERMANY - Summer is finally here! But not every multi-national financial institution is fit and ready for the beach, and one, Deutsche Bank, has decided that it's time to trim some serious fat. 
