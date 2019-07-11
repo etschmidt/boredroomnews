@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Amazon Drones Protest Humane Conditions"
-author: jack
+author: milton
 categories: [ tech, general ]
 image: assets/images/amazon-drone.jpg
 featured: true

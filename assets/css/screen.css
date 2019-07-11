@@ -280,6 +280,7 @@ span.green {
  .featured-image {
      display:block;
      margin-bottom:1.5rem;
+     max-width: 100%;
 }
  .share {
      text-align:center;
