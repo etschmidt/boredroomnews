@@ -8,7 +8,7 @@ featured: true
 hidden: true
 ---
 
-LONDON - The worst fears of of isolationist Britons materialized today as a notable migrant's shopping expedition in affluent Notting Hill threats to unleash a bear market. Paddington, known Windsor Gardens resident and admitted stowaway, incited strong market reactions as he headed to purchase various vegetables for his family supper. 
+LONDON - The worst fears of of isolationist Britons materialized today as an immigrant's Notting Hill shopping expedition threatened to unleash a bear market. Paddington, known Windsor Gardens resident and admitted stowaway, incited strong market reactions as he headed to purchase various vegetables for his family supper. 
 
 Despite making up less than 1% of the British resident population, Peruvian bears have causes a significantly disproportionate amount of mayhem, from recklessly endangering pedestrians test-driving heavy machinery to disrupting BBC telecasts. London financial analysts are bracing for a greater ripple effect throughout the market as Paddington has been sighted en route to "elevensies" with another immigrant associate, a certain Mr. Gruber, whose business dealings in various antiquities have aroused suspicions in the past.  
 
