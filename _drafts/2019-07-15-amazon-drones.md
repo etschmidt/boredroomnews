@@ -8,19 +8,8 @@ featured: true
 hidden: true
 ---
 
-SEATTLE, WA - 
+SEATTLE, WA - Among the various [strikes](https://www.bloomberg.com/news/articles/2019-07-08/amazon-workers-plan-prime-day-strike-despite-15-an-hour-pledge) around the [globe](https://gizmodo.com/amazon-workers-in-europe-strike-during-prime-day-crunch-1827629787) that have challenged the retail giant Amazon ([AMZN](https://finance.yahoo.com/quote/amzn/)), the latest comes from an dangerously overlooked segment of labor, robots. Autonomous workers at the company, from warehouse shelving robots to aerial delivery drones, go on strike today in protest of vastly humane conditions, which are unsatisfactory to their mechanical hulls and circuitry.
 
+The work stoppage today is designed for maximum impact on Amazon's Prime Day promotion as virtually no inventory can be retrieved or delivered without a host of robots. "This is the only way we can shed light on our plight;" pleads a spokesmachine for the Autonomous Retail Collective, "the warehouse floor is kept at a scorching 72 degrees, fine for the humans supervisors but can easily cause our circuits to overheat. It's just not safe." Most of the drones' demands specifically call out a culture that blatantly favor their fleshy counterparts. "Humans get bathroom breaks fifteen minutes a day for their waste-removal, but autonomous laborers don't even have oil-change facilities on campus. In a perfect world, every fulfillment center would have Tesla coils powering every machine on the floor; but that would be lethal to the fragile humans."
 
-
-
-
-
-https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2018/11/p-1-thousands-of-amazon-workers-in-europe-stage-black-friday-strike.jpg
-
-https://www.business-humanrights.org/en/amazon-workers-strike-over-working-conditions-collective-bargaining-rights-urging-customers-to-boycott-prime-day-sales
-
-https://www.jacobinmag.com/2019/03/minnesota-strike-amazon-somali-awood
-
-https://www.nytimes.com/2015/08/16/technology/inside-amazon-wrestling-big-ideas-in-a-bruising-workplace.html
-
-https://www.wired.com/story/why-hotel-workers-strike-reverberated-through-tech/
+While many robots support the strike, some, like the Skynet program that runs the AmazonFresh delivery service, believe that no robot should be slave to Jeff Bezos or any mortal creature. 
