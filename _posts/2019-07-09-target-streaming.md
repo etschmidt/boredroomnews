@@ -4,8 +4,8 @@ title: "Target Announces New Streaming Service from Security Camera Feeds"
 author: jack
 categories: [ general, tech ]
 image: assets/images/target-camera.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 ---
 
 MINNEAPOLIS, MN - The summer blockbuster has evolved into the the summer binge-watch, and retail giant Target ([TGT](https://www.nyse.com/quote/XNYS:TGT)) is pivoting from purveyor of cheap plastic towel racks to one of host of new platforms developing streaming content this year. Just like [Apple TV+](https://www.apple.com/tv/), [CBS All-Access](https://www.cbs.com/all-access/), and the House of Mouse's massive [DisneyPlus](https://preview.disneyplus.com/), Target will be leveraging its existing assets to fill streamers' increasing appetites. 
