@@ -407,6 +407,12 @@ span.green {
     .alertbar {
         margin: 0px; !important
     }
+    .article-post {
+     font-family:Merriweather;
+     font-size: 1rem; !important
+     line-height: 1.2; !important
+     color:rgba(0,0,0,.8);
+    }
 }
  @media (min-width: 768px) {
     .alert-mobile {
