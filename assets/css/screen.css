@@ -409,8 +409,8 @@ span.green {
     }
     .article-post {
      font-family:Merriweather;
-     font-size: 1rem; !important
-     line-height: 1.2; !important
+     font-size: 1rem; 
+     line-height: 1.2;
      color:rgba(0,0,0,.8);
     }
 }
