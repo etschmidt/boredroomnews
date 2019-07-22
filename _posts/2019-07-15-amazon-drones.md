@@ -4,8 +4,8 @@ title: "Amazon Drones Protest Humane Conditions"
 author: milton
 categories: [ tech, general ]
 image: assets/images/amazon-drone.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 ---
 
 SEATTLE, WA - Among the various [strikes](https://www.bloomberg.com/news/articles/2019-07-08/amazon-workers-plan-prime-day-strike-despite-15-an-hour-pledge) around the [globe](https://gizmodo.com/amazon-workers-in-europe-strike-during-prime-day-crunch-1827629787) that have challenged the retail giant Amazon ([AMZN](https://finance.yahoo.com/quote/amzn/)), the latest comes from an dangerously overlooked segment of labor, robots. Autonomous workers at the company, from warehouse shelving robots to aerial delivery drones, go on strike today in protest of vastly humane conditions, which are unsatisfactory to their mechanical hulls and circuitry.
