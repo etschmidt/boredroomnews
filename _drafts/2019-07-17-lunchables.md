@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Fed Undertakes Quantitative Pleasing Efforts to Get Everyone to Just Calm Down for Wile"
-author: milton
+author: jack
 categories: [ general ]
 image: assets/images/airdrop.jpg
 featured: true
