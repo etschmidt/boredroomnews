@@ -4,8 +4,8 @@ title: "Paddington Heads to Portobello; Analysts Warn of Bear Market"
 author: warren
 categories: [ finance ]
 image: assets/images/PGTM.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 ---
 
 LONDON - The worst fears of of isolationist Britons materialized today as an immigrant's Notting Hill shopping expedition threatened to unleash a bear market. Paddington, known Windsor Gardens resident and admitted stowaway, incited strong market reactions as he headed to purchase various vegetables for his family supper. 
