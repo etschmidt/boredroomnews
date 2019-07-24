@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Lunchables Awarded U.N. Contract to Airdrop Aid into Syria"
+title: "U.N. Contract to Airdrop Aid into Syria Awarded to Lunchables"
 author: jack
 categories: [ general ]
 image: assets/images/airdrop.jpg
