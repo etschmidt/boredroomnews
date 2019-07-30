@@ -4,8 +4,8 @@ title: "U.N. Contract to Airdrop Aid into Syria Awarded to Lunchables"
 author: jack
 categories: [ general ]
 image: assets/images/airdrop.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 ---
 
 DAMASCUS - The last resort of humanitarian aid has been valiantly taken up by the last resort of prepackaged meals as Lunchables has been selected to provide 15 tones of food aid to Syrian residents. The effort marks a significant step for parent company Kraft-Heinz ([KHC](https://finance.yahoo.com/quote/KHC/)) as it re-positions its unsold inventory as a boon for the public sector. 
