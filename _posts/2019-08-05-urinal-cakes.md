@@ -1,4 +1,4 @@
-	---
+---
 layout: post
 title: "'Do What You Love and You'll Never Work a Day in Your Life' Proclaims Used Urinal Cake Taste Tester"
 author: janet
