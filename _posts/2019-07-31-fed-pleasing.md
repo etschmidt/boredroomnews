@@ -4,8 +4,8 @@ title: "Fed Undertakes Quantitative Pleasing Efforts to Get Everyone to Just Cal
 author: milton
 categories: [ general ]
 image: assets/images/powell.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 ---
 
 WASHINGTON - With everyone from economists to small businesses watching the the Federal Reserve this week, Chairman Jerome H. Powell announced that the central bank would be enacting strong quantitative pleasing measures "to have some breathing room for a while." After constantly raising rates since 2008, Mr. Powell has signaled that "making everyone happy" so they leave the Fed alone is the best move for the economists to take a step back and really get a good grasp on the situation.
