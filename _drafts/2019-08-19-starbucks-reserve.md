@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Starbucks Reserve Called Up for 3rd Wave Coffee Offensive"
-author: janet
+author: jack
 categories: [ general, labor ]
-image: assets/images/roomba.jpg
+image: assets/images/starbucks-reserve.jpg
 featured: true
 hidden: true
 ---
