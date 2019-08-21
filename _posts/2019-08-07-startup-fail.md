@@ -4,8 +4,8 @@ title: "Half of All Startups Fails Because People like Dave Can't Get Their Shit
 author: jack
 categories: [ general, tech ]
 image: assets/images/startup-fail.jpg
-featured: false
-hidden: false
+featured: true
+hidden: true
 ---
 
 NEW YORK CITY - As a leading voice in the business community, Boredroom News has covered the journeys of hundreds of startups and have seen a pattern in these stories. Now, we're sharing the five most common pitfalls that have waylaid entrepreneurs on their paths to success, despite the fact that [articles like this](https://www.cbinsights.com/research/startup-failure-reasons-top/) have already been published and we told one member of our team [David Haig] to specifically look at them. 
