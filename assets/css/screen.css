@@ -252,8 +252,13 @@ License: https://www.wowthemes.net/freebies-license/
      position: relative;
      background: #fff;
 }
+ #pi {
+    float: right;
+    font-size:0.3rem;
+ }
  .link-dark {
      color:rgba(0,0,0,.8);
+}
 }
  .article-post {
      font-family:Merriweather;
