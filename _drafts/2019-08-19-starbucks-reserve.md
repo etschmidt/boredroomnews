@@ -8,9 +8,7 @@ featured: true
 hidden: true
 ---
 
-SEATTLE - 
-
-The IDF has issued emergency call up orders to six reserve battalions in light of new dangers on the Egyptian and Syrian borders. And the Knesset has given the IDF permission to summon a further 16 reserve battalions if necessary, Israeli media reported on Wednesday.
+SEATTLE - The coffee chain [Starbucks](https://finance.yahoo.com/quote/SBUX/) has issued emergency call up orders to hundreds of Reserve battalions in light of a new cold brew and ethically-sourced push by various small-batch roaster across America. Chief Executive Kevin Johnson has given the these Reservists complete autonomy to rewrite the rules of engagement utilize whatever brewing methods they deem necessary to launch a stoong counter-offensive.
 
 An IDF spokesperson said intelligence assessments called for the deployment of more soldiers. An army statement highlighted last August’s infiltration from the Sinai north of Eilat in which eight Israelis were killed, and said the subsequent division of that area into two distinct military zones necessitated additional manpower.
 
