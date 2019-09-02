@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "President Trump Recognizes "Brave Pullman Railroad Executives" Who Made Labor Day Possible
+title: "President Trump Recognizes 'Brave Pullman Railroad Executives' Who Made Labor Day Possible
 author: milton
 categories: [ labor, general ]
 image: assets/images/trump.jpg
