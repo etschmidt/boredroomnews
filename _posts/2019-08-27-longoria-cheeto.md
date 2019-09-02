@@ -4,8 +4,8 @@ title: "Eva Longoria to Direct 'Flamin' Hot', The Life, Success, and Troubles of
 author: janet
 categories: [ general ]
 image: assets/images/cheeto.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 ---
 
 HOLLYWOOD - Eva Longoria will direct Fox Searchlight’s "Flamin' Hot," a biopic about Chester Cheetah, the tragi-comic hero and inventor who founded the Cheetos Empire.
