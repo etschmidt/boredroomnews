@@ -8,7 +8,7 @@ featured: true
 hidden: true
 ---
 
-SEATTLE - The coffee chain [Starbucks](https://finance.yahoo.com/quote/SBUX/) has issued emergency call up orders to hundreds of Reserve battalions in light of a new cold brew and ethically-sourced push by various small-batch roaster across America. Chief Executive Kevin Johnson has given the these Reservists complete autonomy to  utilize whatever brewing methods they deem necessary to launch a bold, earthy counter-offensive.
+SEATTLE - The coffee chain [Starbucks](https://finance.yahoo.com/quote/SBUX/) has issued emergency call up orders to hundreds of Reserve battalions in light of a new cold brew and ethically-sourced blitzkrieg by various small-batch coffee purveyors across America. Chief Executive Kevin Johnson has given the these Reservists complete autonomy to  utilize whatever brewing methods they deem necessary to launch a bold, earthy counter-offensive.
 
 A Starbucks' spokeSperson said intelligence assessments called for the deployment of barista reserves; last August’s infiltration of previously-ungentrified neighborhoods from Greenpoint, Brooklyn to Inglewood, L.A., by single-origin, shade-grown roasting factions necessitated the additional manpower.
 
