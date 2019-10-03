@@ -4,8 +4,8 @@ title: "Hedging Investment, Altria Offers Menthols as Safe Alternative to Juul"
 author: jack
 categories: [ general ]
 image: assets/images/marlboro.jpg
-featured: true
-hidden: true
+featured: false
+hidden: truefalse
 ---
 
 RICHMOND, VA - Tobacco giant Altria ([MO](https://finance.yahoo.com/quote/MO)) is scrambling to protect their [$13B investment](https://www.cbsnews.com/news/altria-jull-deal-big-tobaccos-altria-buys-one-third-stake-in-vape-brand-juul-for-12-8-billion/) in electronic cigarette make JUUL Labs as the vape manufacturers weathers a [criminal probe](https://www.marketwatch.com/story/juul-labs-under-criminal-probe-by-california-feds-2019-09-24) amid a spate of deaths related to similar products across the nation. With a marketing campaign that returns to the firm's roots, Altria is positioning menthol cigarettes as a "safer, and definitely cooler" alternative to vaping products.
