@@ -4,8 +4,8 @@ title: "Poke Bowl Craze Decimating Native Pokémon Populations"
 author: janet
 categories: [ general ]
 image: assets/images/pokebowl.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 ---
 
 HONOLULU, HI - Pokémon stocks in throughout the nation are on the brink of collapse largely because authorities have allowed too many to be killed to support the glut of poke bowl restaurants that have recently opened, according to a new research paper by Pallet Town Laboratories. The high exploitation of pokémon to be eaten - traditionally, pokémon are bred to for barbaric street fights - may be more to blame for the worldwide decline than global warming, with fat, lovable variants such as Psyduck or Slowbro being the most vulnerable.
