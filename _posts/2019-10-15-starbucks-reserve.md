@@ -4,8 +4,8 @@ title: "Starbucks Reserve Called Up for 3rd Wave Coffee Offensive"
 author: jack
 categories: [ general, labor ]
 image: assets/images/starbucks-reserve.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 ---
 
 SEATTLE - The coffee chain [Starbucks](https://finance.yahoo.com/quote/SBUX/) has issued emergency call up orders to hundreds of Reserve battalions in light of a new cold brew and ethically-sourced blitzkrieg by various small-batch coffee purveyors across America. Chief Executive Kevin Johnson has given the these Reservists complete autonomy to  utilize whatever brewing methods they deem necessary to launch a bold, earthy counter-offensive.
