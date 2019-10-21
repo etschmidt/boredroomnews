@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Subway Offering Tuition Assistance for Degrees in the Sandwich Arts"
-author: milton
+author: jack
 categories: [ general, labor ]
 image: assets/images/subway_arts.jpg
 featured: true
