@@ -4,8 +4,8 @@ title: "Subway Offering Tuition Assistance for Degrees in the Sandwich Arts"
 author: jack
 categories: [ general, labor ]
 image: assets/images/subway_arts.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 ---
 
 MILFORD, CT - Known for its fast food footlongs and overpowering bread smells, Subways Restaurants will soon add another bullet to its resume, patron of the arts. A new program unveiled this week will provide the opportunity for all Sandwich Artists at nearly 42,000 locations to pursue a higher degree in the sandwich arts debt-free, as have [rivals](https://newsroom.chipotle.com/2019-10-15-Chipotle-Debuts-Debt-Free-Degrees-For-All-Employees) in recent months. 
