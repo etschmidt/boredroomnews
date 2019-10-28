@@ -10,12 +10,6 @@ post_class: post-template
 <div class="container">
 	<div class="row">
 
-		<!-- Post Share -->
-		<div class="col-md-2 pl-0">            
-           {% include share.html %}  
-		</div>
-		
-
 		<!-- Post -->        
         {% assign author = site.authors[page.author] %}
         
@@ -61,7 +55,12 @@ post_class: post-template
                 </small>
             </p>
             
-			<!-- Post Categories -->
+            <!-- Post Share -->
+                <div class="col-md-2 pl-0">            
+                   {% include share.html %}  
+                </div>
+			
+            <!-- Post Categories -->
 			<div class="after-post-tags">
 				<ul class="tags">
                     {% assign sortedCategories = page.categories | sort %}
