@@ -22,3 +22,11 @@ BoJack’s broken beauty.
  There Are No Hollywood Endings in ‘BoJack Horseman’
 
  But that presumes there is a telos, and it's the same dilemma the characters are facing: the metaphysical crisis of modernity
+
+
+ https://www.buzzfeed.com/juliapugachevsky/times-bojack-horseman-got-way-way-too-real
+
+
+"Bojack is my (nob-appeopriative) spirit animal" at The Cut
+
+"We binged Season 5 on Ayahuasca and heres what we learned about Mr Peanutbutter " by buzzfeed
