@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Failure to Launch: Only Content Available on Disney+ Animated Robinhood Gifs"
+title: "Failure to Launch: Only Content Available on Disney+ Animated Robin Hood Gifs"
 author: jack
 categories: [ general, tech ]
 image: assets/images/robinhood.jpg
