@@ -12,4 +12,4 @@ BURBANK, CA - The most anticipated launch of the streaming era hit a major snag 
 
 "I see this as an absolute win," exclaimed Bob Iger, Disney's chief executive, "_Robin Hood_ is a cinematic masterpiece and I stand behind gif of it 100%." Some consumers were less than enthused by the glitch, but many, however, simply assumed they were watching exclusive content [seen below] from _The Mandalorian_.
 
-![possibly a clip from The Mandalorian](/assets/images/ladycluck.gif)
+![possibly a clip from The Mandalorian](/assets/images/lady_cluck.gif)
