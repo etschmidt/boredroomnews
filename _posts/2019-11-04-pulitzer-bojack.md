@@ -4,8 +4,8 @@ title: "Pulitzer Committee Adds New Category for Bojack Horseman Thinkpieces"
 author: warren
 categories: [ general, tech ]
 image: assets/images/bojack.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 ---
 
 NEW YORK CITY - Columbia University announced that this year's Pulitzer Prize Board will consider a new category, Excellence in Bojack Horseman Thinkpiece Writing. Steve Coll, Dean of the Columbia School of Journalism, hails the new category as sign in the ever-changing media landscape and an advancement in superficial self-reflection prompted by cartoons. 
