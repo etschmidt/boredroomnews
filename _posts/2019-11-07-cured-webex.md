@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Curesed Teleconference Haunted by Ghost Mouse Pointer"
+title: "Cursed Teleconference Haunted by Ghost Mouse Pointer"
 author: janet
 categories: [ general, labor ]
 image: assets/images/webex.jpg
