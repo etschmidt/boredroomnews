@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: boredroomnews.com
+Token: a49244dfd67cde4279c673dc6b18620e8f275b057daa99e6842d1993d8327a00
