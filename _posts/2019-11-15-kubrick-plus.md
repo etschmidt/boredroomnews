@@ -3,7 +3,7 @@ layout: post
 title: "Kubrick+ Streaming Platform Offers Only Unskippable Version of Barry Lyndon"
 author: janet
 categories: [ general, tech ]
-image: assets/images/dms.jpg
+image: assets/images/lyndon.jpg
 featured: false
 hidden: false
 ---
