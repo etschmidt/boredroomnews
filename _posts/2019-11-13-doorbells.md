@@ -4,8 +4,8 @@ title: "Are Millenials Texting 'Here' Killing the Home Invasion Industry?"
 author: janet
 categories: [ general, tech ]
 image: assets/images/burglar.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 ---
 
 DETROIT, MI - Back in the good old days, just about anyone could go up to someone’s door and ring their doorbell to see if they were home. If no one answered the bell, an easy burglary; if not, at least you had the element of surprise over any residents. In this day, however, millennials will pull into the driveway and simply shoot a text to their friend saying “here,” leaving any honest would-be burglar high and dry. 
