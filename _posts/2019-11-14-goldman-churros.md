@@ -4,8 +4,8 @@ title: "Goldman Sachs CEO Arrested for Selling Unregulated Securities on Subway 
 author: milton
 categories: [ general, finance ]
 image: assets/images/dms.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 ---
 
 BROOKLYN, NY - The arrest of yet [another](https://www.nytimes.com/2019/11/11/nyregion/churro-lady-subway-arrest.html
