@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Perdue Farms Reaches Deal to Buy Presidentially-Pardoned Turkey for $1.3 Million "
+author: janet
+categories: [ general ]
+image: assets/images/turkey_trump.jpg
+featured: true
+hidden: true
+---
+
+WASHINGTON, D.C. - Another storied White House tradition has been altered this week by President Trump, who announced today that the turkeys to be pardoned on Thanksgiving will then be sold to Perdue Farms for their "Celebrity Cold Cuts" product line. This Thursday, the bird chosen by the National Turkey Federation, Gobbles, will be presented to Mr. Trump and officially excused from the celebratory meal; Gobble will then be  handed over to Purdue representatives to be de-feathered and prepared for slaughter. 
+
+"This is a great bird, one of the best birds, I picked it out myself," said the President, "and it's a great deal for the American people; Perdue, they're fine people, too; they paid me a lot of money, a lot, for this bird. and that's great, too, because turkey's are kinda gross, you know, they just waddle around in their own stuff and everything. Now the Trump Organization, my company, a great company, gets over a million dollars, the American people get the chance to buy some really great turkey slices, and we get to have a great meal anyway the the White House." According to the official press release, Gobbles will be replaced on the holiday menu by McDonald's cheeseburgers and a panoply of Diet Coke flavors.
