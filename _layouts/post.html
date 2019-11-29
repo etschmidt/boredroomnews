@@ -107,3 +107,16 @@ post_class: post-template
 {% endif %}
 <!--End Comments
 ================================================== -->
+
+<script>
+var pageInfo = {
+    article: true,
+    post_id: num,
+    post_type: string,
+    resource_ref: unique_reference_string, // optional
+    taxonomies: { tags: [...], categories: [...], some_custom_taxonomy: [...] },
+    url: window.location.href
+};
+
+window.pico('visit', pageInfo);
+</script>
