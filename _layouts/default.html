@@ -1,85 +1,89 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    
-<title>{{ page.title }} | BRN</title>
-    
-{% if page.description %}
-  <meta name="description" content="{{ page.description }}">
-  <meta property="og:description" content="{{ page.description }}">
-{% endif %} 
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+      
+  <title>{{ page.title }} | BRN</title>
+      
+  {% if page.description %}
+    <meta name="description" content="{{ page.description }}">
+    <meta property="og:description" content="{{ page.description }}">
+  {% endif %} 
 
-<!-- CDN for bootstrap and fonts -->
-<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+  <!-- CDN for bootstrap and fonts -->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
 
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
-    
-<link href="https://fonts.googleapis.com/css?family=Righteous%7CMerriweather:300,300i,400,400i,700,700i" rel="stylesheet">
-    
-<link href="{{ site.baseurl }}/assets/css/screen.css" rel="stylesheet">
-    
-<link href="{{ site.baseurl }}/assets/css/main.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
+      
+  <link href="https://fonts.googleapis.com/css?family=Righteous%7CMerriweather:300,300i,400,400i,700,700i" rel="stylesheet">
+      
+  <link href="{{ site.baseurl }}/assets/css/screen.css" rel="stylesheet">
+      
+  <link href="{{ site.baseurl }}/assets/css/main.css" rel="stylesheet">
 
-<!-- RSS feed -->
+  <!-- RSS feed -->
 
-<link href='http://www.boredroomnews.com/feed.xml' rel='alternate' type='application/atom+xml'>
+  <link href='http://www.boredroomnews.com/feed.xml' rel='alternate' type='application/atom+xml'>
 
-<!-- Favicon -->
+  <!-- Favicon -->
 
-<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-<link rel="manifest" href="/site.webmanifest">
-<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
-<meta name="msapplication-TileColor" content="#00aba9">
-<meta name="theme-color" content="#ffffff">
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+  <meta name="msapplication-TileColor" content="#00aba9">
+  <meta name="theme-color" content="#ffffff">
 
-<!-- Control the behavior of search engine crawling and indexing -->
-<meta name="robots" content="index,follow"><!-- All Search Engines -->
-<meta name="googlebot" content="index,follow"><!-- Google Specific -->
+  <!-- Control the behavior of search engine crawling and indexing -->
+  <meta name="robots" content="index,follow"><!-- All Search Engines -->
+  <meta name="googlebot" content="index,follow"><!-- Google Specific -->
 
-<!-- Twitter cards -->
+  <!-- Twitter cards -->
 
-<meta name="twitter:title" content="{{ page.title }}">
+  <meta name="twitter:title" content="{{ page.title }}">
 
-{% if page.title %}
-  <meta name="twitter:description" content="{{ page.title }}">
-  <meta property="og:title" content="{{ page.title }}">
-{% else %}
-  <meta name="twitter:description" content="{{ site.description }}">
-{% endif %}
+  {% if page.title %}
+    <meta name="twitter:description" content="{{ page.title }}">
+    <meta property="og:title" content="{{ page.title }}">
+  {% else %}
+    <meta name="twitter:description" content="{{ site.description }}">
+  {% endif %}
 
-<meta name="twitter:card"  content="summary_large_image">
+  <meta name="twitter:card"  content="summary_large_image">
 
-<!-- open graph and twitter images -->
-{% if page.image %}
-  <meta property="og:image" content="{{ site.url }}/{{ page.image }}">
-  <meta name="twitter:image:src" content="{{ site.url }}/{{ page.image }}">
-{% endif %}
+  <!-- open graph and twitter images -->
+  {% if page.image %}
+    <meta property="og:image" content="{{ site.url }}/{{ page.image }}">
+    <meta name="twitter:image:src" content="{{ site.url }}/{{ page.image }}">
+  {% endif %}
 
 
-<!-- Adsense Bullshit -->
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<script>
-  (adsbygoogle = window.adsbygoogle || []).push({
-    google_ad_client: "ca-pub-7503922075170260",
-    enable_page_level_ads: true
-  });
-</script>
+  <!-- Adsense Bullshit -->
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+  <script>
+    (adsbygoogle = window.adsbygoogle || []).push({
+      google_ad_client: "ca-pub-7503922075170260",
+      enable_page_level_ads: true
+    });
+  </script>
 
-<!-- more adsense bs -->
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({
-          google_ad_client: "ca-pub-7503922075170260",
-          enable_page_level_ads: true
-     });
-</script>
+  <!-- more adsense bs -->
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+  <script>
+       (adsbygoogle = window.adsbygoogle || []).push({
+            google_ad_client: "ca-pub-7503922075170260",
+            enable_page_level_ads: true
+       });
+  </script>
+
+  <!-- PICO Widget -->
+  <script>(function(p,i,c,o){var n=new Event("pico-init");i[p]=i[p]||function(){(i[p].queue=i[p].queue||[]).push(arguments)},i.document.addEventListener("pico-init",function(e){var t=i.Pico.getInstance(e,{publisherId:o,picoInit:n},i);t.handleQueueItems(i[p].queue),i[p]=function(){return t.handleQueueItems([arguments])}},!1);var e=i.document.createElement("script"),t=i.document.getElementsByTagName("script")[0];e.async=1,e.src=c,e.onload=function(e){return i.Pico.getInstance(e,{publisherId:o,picoInit:n},i)},t.parentNode.insertBefore(e,t)})("pico",window,"https://widget.pico.tools/wrapper.min.js","be66cf1b-94fb-43d7-9b0e-77005b0ebb73");</script>
 
 </head>
-    
+
+<!-- I don't kow why this in the body... -->
 {% if jekyll.environment == 'production' %}
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
