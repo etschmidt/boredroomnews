@@ -3,7 +3,7 @@ layout: post
 title: "President Says Federal Agencies Cannot Discriminate on Basis of Impeachment Status"
 author: milton
 categories: [ general, labor ]
-image: assets/images/trump-signing.jpg
+image: assets/images/trump_signing.jpg
 featured: true
 hidden: true
 ---
