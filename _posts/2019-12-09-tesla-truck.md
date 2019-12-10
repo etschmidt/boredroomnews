@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Apparently, the Tesla Cybertruck was Predicted in iCarly Episode from 2011"
+title: "Tesla Cybertruck Predicted by iCarly Episode in 2011"
 author: jack
 categories: [ general, tech ]
 image: assets/images/icarly.jpg
