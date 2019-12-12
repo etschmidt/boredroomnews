@@ -4,8 +4,8 @@ title: "Tesla Cybertruck Predicted by iCarly Episode in 2011"
 author: jack
 categories: [ general, tech ]
 image: assets/images/icarly.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 ---
 
 PALO ALTO, CA -- Life often imitates art, and Elon Musk's breakthrough electric truck is no exception; careful observers have noticed that a strikingly similar vehicle can be seen in the Miranda Cosgrove teen sitcom, _iCarly_, which aired on the Disney Channel from 2008 to 2012.  
