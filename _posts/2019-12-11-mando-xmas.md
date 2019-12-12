@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Disney Facing Early Backlash for Upcoming 'Mandalorian Holiday Special'"
+title: "Disney Facing Backlash for Leaked 'Mandalorian Holiday Special'"
 author: warren
 categories: [ general, tech ]
 image: assets/images/yoda-soup.jpg
