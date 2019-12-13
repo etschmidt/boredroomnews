@@ -8,7 +8,7 @@ featured: true
 hidden: true
 ---
 
-BURBANK, CA -- Star Wars fans rejoiced when Disney ([DIS](https://finance.yahoo.com/quote/DIS)) first aired _The Mandalorian_ as the flagship program of its new streaming service Disney+, but many have been rankled after a leaked script from the upcoming 'Holiday Special' appeared online this week. Many fans remember the 1978 televised Star Wars Holiday Special, a poorly-crafted variety show that was never re-aired due to negative critical reception.
+BURBANK, CA -- Star Wars fans rejoiced when Disney ([DIS](https://finance.yahoo.com/quote/DIS)) first aired _The Mandalorian_ as the flagship program of its new streaming service Disney+, but many have been rankled after a leaked script from the upcoming 'Holiday Special' appeared online this week. Many fans may remember the 1978 televised Star Wars Holiday Special, a poorly-crafted variety show that was never re-aired due to negative critical reception.
 
 Nevertheless, showrunner Jon Favreau believes the franchise has learned from its missteps in the past. "I'm confident that our 'special episode' seamlessly integrates with the existing Star Wars cannon as well as open the possibilities of new galactic storylines," Favreau responded, "but it also aligns with the Disney brand in creating family-friendly content for all ages." 
 
