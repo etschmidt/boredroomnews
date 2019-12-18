@@ -4,8 +4,8 @@ title: "Disney Facing Backlash for Leaked 'Mandalorian Holiday Special'"
 author: warren
 categories: [ general, tech ]
 image: assets/images/yoda-soup.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 ---
 
 BURBANK, CA -- Star Wars fans rejoiced when Disney ([DIS](https://finance.yahoo.com/quote/DIS)) first aired _The Mandalorian_ as the flagship program of its new streaming service Disney+, but many have been rankled after a leaked script from the upcoming 'Holiday Special' appeared online this week. Many fans may remember the 1978 televised Star Wars Holiday Special, a poorly-crafted variety show that was never re-aired due to negative critical reception.
