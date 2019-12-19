@@ -8,7 +8,6 @@
       
   {% if page.description %}
     <meta name="description" content="{{ page.description }}">
-    <meta property="og:description" content="{{ page.description }}">
   {% endif %} 
 
   <!-- CDN for bootstrap and fonts -->
@@ -40,21 +39,22 @@
   <meta name="robots" content="index,follow"><!-- All Search Engines -->
   <meta name="googlebot" content="index,follow"><!-- Google Specific -->
 
+  <!-- Open Graph -->
+  <meta property="og:locale" content="en_US">
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="{{ page.title }}">
+  <meta property="og:description" content="{{ page.excerpt }}">
+  <meta property="og:url" content="{{ page.url }}">
+  <meta property="og:site_name" content="Boredroom News">
+  <meta property="og:image" content="{{ page.image }}">
+
   <!-- Twitter cards -->
-
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@boredroomnews">
+  <meta name="twitter:creator" content="@boredroomnews">
   <meta name="twitter:title" content="{{ page.title }}">
-
-  {% if page.title %}
-    <meta property="og:title" content="{{ page.title }}">
-  {% endif %}
-
-  <meta name="twitter:card"  content="summary_large_image">
-
-  <!-- open graph and twitter images -->
-  {% if page.image %}
-    <meta property="og:image" content="{{ site.url }}/{{ page.image }}">
-    <meta name="twitter:image:src" content="{{ site.url }}/{{ page.image }}">
-  {% endif %}
+  <meta name="twitter:description" content="{{ page.page.excerpt }}">
+  <meta name="twitter:image" content="{{ page.image }}">
 
   <!-- Google analytics -->
   {% if jekyll.environment == 'production' %}
