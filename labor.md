@@ -6,7 +6,7 @@ comments: false
 
 <!-- Posts Index
 ================================================== -->
-<section class="recent-posts" id="labor-archive">
+<section class="recent-posts">
     
     <div class="row listrecent">
 
