@@ -4,8 +4,8 @@ title: "South Carolina Becomes 10th State to Impose Work Requirement for Unemplo
 author: warren
 categories: [ general, labor ]
 image: assets/images/SC_gov.jpg
-featured: true
-hidden: true
+featured: false
+hidden: false
 ---
 
 COLUMBIA, S.C. -- Riding on a wave of support from the Trump administration, South Carolina has announced stricter conditions on state-funded unemployment benefits, requiring Carolinians to prove that that they are gainfully employed to be eligible.
