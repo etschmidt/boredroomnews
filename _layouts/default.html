@@ -60,7 +60,7 @@
   <script type="text/javascript">
       window.onload = function() {
         $('meta[property="twitter:image"]').remove();
-        $("head").append('<meta property="twitter:image" content="{{ site.baseurl }}/{{ page.image }}?55">');
+        $("head").append('<meta property="twitter:image" content="{{ site.baseurl }}/{{ page.image }}?"' + Math.rand() + '" >"');
       };
   </script>
 
