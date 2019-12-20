@@ -56,9 +56,9 @@
   <meta name="twitter:description" content="{{ post.excerpt }}">
   <meta name="twitter:image" content="{{ site.baseurl }}/{{ page.image }}">
   <!-- test -->
-  <script>
+  <script type="text/javascript">
     window.onload = function() {
-      document.getElementsByTagName("twitter:image").setAttribute("content", "{{ site.baseurl }}/{{ page.image }}?" + (Math.random()*100););
+      document.getElementsByTagName("twitter:image").setAttribute("content", "{{ site.baseurl }}/{{ page.image }}?" + (Math.random()*100));
     }
   </script>
   <!-- Google analytics -->
