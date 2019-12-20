@@ -55,8 +55,11 @@
   <meta name="twitter:title" content="{{ page.title }}">
   <meta name="twitter:description" content="{{ post.excerpt }}">
   <meta name="twitter:image" content="{{ site.baseurl }}/{{ page.image }}">
+  <!-- test -->
   <script>
-    document.getElementById("twitter:image").setAttribute("content", "{{ site.baseurl }}/{{ page.image }}?Math.random();");
+    window.onload = function() {
+      document.getElementById("twitter:image").setAttribute("content", "{{ site.baseurl }}/{{ page.image }}?Math.random();");
+    }
   </script>
   <!-- Google analytics -->
   {% if jekyll.environment == 'production' %}
