@@ -58,7 +58,7 @@
   <!-- test -->
   <script>
     window.onload = function() {
-      document.getElementById("twitter:image").setAttribute("content", "{{ site.baseurl }}/{{ page.image }}?Math.random();");
+      document.getElementsByTagName("twitter:image").setAttribute("content", "{{ site.baseurl }}/{{ page.image }}?Math.random();");
     }
   </script>
   <!-- Google analytics -->
