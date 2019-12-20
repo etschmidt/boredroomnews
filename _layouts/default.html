@@ -55,13 +55,15 @@
   <meta name="twitter:title" content="{{ page.title }}">
 <!--   <meta name="twitter:description" content="{{ post.excerpt }}">
   <meta name="twitter:image" content="{{ site.baseurl }}/{{ page.image }}"> -->
+  
   <!-- test -->
   <script type="text/javascript">
-      $(document).ready(function() {
+      window.onload = function() {
         $('meta[property="twitter:image"]').remove();
         $("head").append('<meta property="twitter:image" content="{{ site.baseurl }}/{{ page.image }}?55">');
-      });
+      };
   </script>
+
   <!-- Google analytics -->
   {% if jekyll.environment == 'production' %}
   <script>
