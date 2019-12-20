@@ -54,8 +54,10 @@
   <meta name="twitter:creator" content="@boredroomnews">
   <meta name="twitter:title" content="{{ page.title }}">
   <meta name="twitter:description" content="{{ post.excerpt }}">
-  <meta name="twitter:image:src" content="{{ site.baseurl }}/{{ page.image }}?{% puts (rand() * 10).to_i %}">
-  <!-- test -->
+  <meta name="twitter:image" content="{{ site.baseurl }}/{{ page.image }}">
+  <script>
+    document.getElementById("twitter:image").setAttribute("content", "{{ site.baseurl }}/{{ page.image }}?Math.random();");
+  </script>
   <!-- Google analytics -->
   {% if jekyll.environment == 'production' %}
   <script>
