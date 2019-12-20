@@ -57,9 +57,10 @@
   <meta name="twitter:image" content="{{ site.baseurl }}/{{ page.image }}">
   <!-- test -->
   <script type="text/javascript">
-    window.onload = function() {
-      document.getElementsByTagName("twitter:image").setAttribute("content", "{{ site.baseurl }}/{{ page.image }}?" + (Math.random()*100));
-    }
+      $(document).ready(function() {
+        $('meta[property="twitter:image"]').remove();
+        $("head").append('<meta property="twitter:image" content="{{ site.baseurl }}/{{ page.image }}?55">');
+      });
   </script>
   <!-- Google analytics -->
   {% if jekyll.environment == 'production' %}
