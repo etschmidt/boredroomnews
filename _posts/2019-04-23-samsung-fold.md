@@ -14,4 +14,4 @@ Recent [reports](https://www.cnet.com/news/some-samsung-galaxy-fold-screens-are-
 
 Despite the project's inauspicious beginning, Del Taco says that they are more than up to the challenge. "A smartphone is really like a less-sophisticated taco," explains Luis Gonell from Del Taco's Theoretical Food Sciences department, "it only needs to hold a few ounces of stale circuits and silicon, not a medley of fresh lettuce, gooey cheese, or spicy beef. And since it's not even supposed to be edible, I can't imagine this project taking more than a few days."
 
-Investors, however, are remain wary, citing recent [failures](https://www.boredroomnews.com/general/2018/08/12/Chipotle-sourcream.html) in the casual Mexican food industry to stay ahead of consumer preferences.
+Investors, however, remain wary, citing recent failures like the Chipotle 'All-Sour Cream Burrito,' of emerging casual Mexican food technology.

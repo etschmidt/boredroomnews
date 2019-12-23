@@ -14,4 +14,4 @@ Many fast-food connoisseurs remain skeptical of what they see as a brash move to
 
 As Arny's begins it's roll-out of the Roast Beef & Cheddar with Extra Blockchain in select cities, the first few consumers were indeed impressed by he flavoring of decentralized ledger technology. "The strong cheddar taste I already love goes great with the Etherium baked right in," proclaims Sam Guncler of Des Moines, Iowa, "And I'm really looking forward to what they're doing with Ripple ([XRP](https://www.coinbase.com/price/ripple)) this summer."
 
-Arby's planned initial coin offering is imminent as soon as thei chief technology officer can figure out how to unlock his Gmail account.
+Arby's planned initial coin offering is imminent as soon as their chief technology officer can figure out how to unlock his Gmail account.
