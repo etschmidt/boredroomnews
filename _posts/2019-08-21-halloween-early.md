@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Spirit of Halloween Store Scarily Early"
+title: "Spirit of Halloween Store Spookily Early"
 author: milton
 categories: [ general ]
 image: assets/images/halloween.jpg
