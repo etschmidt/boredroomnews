@@ -3,7 +3,7 @@ layout: post
 title: "Westminster Tests On-Dog Sponsorships"
 author: jack
 categories: [ general ]
-image: assets/images/bichon.jpg
+image: assets/images/bichon.png
 featured: false
 hidden: false
 ---
