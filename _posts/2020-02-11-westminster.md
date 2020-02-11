@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Westminster Tests On-Dog Sponsorships"
+title: "Westminster To Allow On-Dog Sponsorships"
 author: jack
 categories: [ general ]
 image: assets/images/bichon.png
